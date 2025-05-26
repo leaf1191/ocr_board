@@ -20,3 +20,10 @@ def apply_clahe(image, clip_limit=2.0, tile_grid_size=(8, 8)):
     clahe = cv.createCLAHE(clipLimit=clip_limit, tileGridSize=tile_grid_size)
     result = clahe.apply(image)
     return result
+
+def apply_inpainting(image, threshold=180, inpaint_radius=3):
+    _, mask = cv.threshold(image, threshold, 255, cv.THRESH_BINARY)
+    kernel = np.ones((3,3), np.uint8)
+    mask = cv.morphologyEx(mask, cv.MORPH_OPEN, kernel, iterations=2)
+    inpainted = cv.inpaint(image, mask, inpaint_radius, cv.INPAINT_TELEA)
+    return inpainted

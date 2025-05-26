@@ -13,8 +13,9 @@ def resize_image(image, width=800):
 if __name__ == "__main__":
     image = getImage()
     image = convert_to_gray(image)
-    image = apply_clahe(image)
     image = apply_gaussian_blur(image)
+    image = apply_clahe(image)
+    image = apply_inpainting(image)
     image = sobel_magnitude(image)
     cv.imshow('image', image)
     cv.waitKey(0)
