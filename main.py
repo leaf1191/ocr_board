@@ -10,13 +10,20 @@ def resize_image(image, width=800):
     resized_image = cv.resize(image, (width, height), interpolation=cv.INTER_AREA)
     return resized_image
 
+def process_image(image):
+    image = convert_to_gray(image)
+    image = apply_clahe(image)
+    image = apply_bilateral_filter(image)
+    image = apply_adaptive_threshold(image)
+    #image = sobel_magnitude(image)
+    #image = apply_canny(image)
+    #image = apply_morphology(image)
+    return image
+
 if __name__ == "__main__":
     image = getImage()
-    image = convert_to_gray(image)
-    image = apply_gaussian_blur(image)
-    image = apply_clahe(image)
-    image = apply_inpainting(image)
-    image = sobel_magnitude(image)
+    image = process_image(image)
+
     cv.imshow('image', image)
     cv.waitKey(0)
     cv.destroyAllWindows()
