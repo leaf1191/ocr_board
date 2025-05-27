@@ -41,10 +41,27 @@ def sharpen_image(image, strength=1.0):
     sharpened = np.clip(sharpened, 0, 255).astype(np.uint8)
     return sharpened
 
-"""
+def remove_small_noise(binary_image, min_size=20, connectivity=8):
+    binary_image = cv.bitwise_not(binary_image)
+    num_labels, labels, stats, _ = cv.connectedComponentsWithStats(
+        binary_image, connectivity=connectivity, ltype=cv.CV_32S)
+    
+    output = np.zeros_like(binary_image)
+    
+    for i in range(1, num_labels):
+        area = stats[i, cv.CC_STAT_AREA]
+        if area >= min_size:
+            output[labels == i] = 255
+    
+    return cv.bitwise_not(output)
+
+
+
 def apply_median_filter(image, kernel_size=3):
     filtered = cv.medianBlur(image, kernel_size)
     return filtered
+
+"""
 
 def apply_adaptive_threshold(image, max_value=255, method=cv.ADAPTIVE_THRESH_GAUSSIAN_C, 
                            threshold_type=cv.THRESH_BINARY, block_size=11, C=2):

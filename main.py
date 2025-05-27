@@ -18,6 +18,7 @@ def process_image(image):
     image = apply_threshold(image)
     image = apply_morphology(image)
     image = apply_dilation(image)
+    image = remove_small_noise(image)
     return image
 
 if __name__ == "__main__":
