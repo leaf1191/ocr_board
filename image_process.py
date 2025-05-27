@@ -9,12 +9,42 @@ def apply_bilateral_filter(image, d=9, sigmaColor=50, sigmaSpace=75):
     filtered = cv.bilateralFilter(image, d=d, sigmaColor=sigmaColor, sigmaSpace=sigmaSpace)
     return filtered
 
-def sobel_magnitude(image, ksize=3):
-    sobelx = cv.Sobel(image, cv.CV_64F, 1, 0, ksize=ksize)
-    sobely = cv.Sobel(image, cv.CV_64F, 0, 1, ksize=ksize)
-    magnitude = np.sqrt(sobelx**2 + sobely**2)
-    magnitude = cv.normalize(magnitude, None, 0, 255, cv.NORM_MINMAX, cv.CV_8U)
-    return magnitude
+def apply_threshold(image, threshold=127, max_value=255, threshold_type=cv.THRESH_BINARY):
+    _, binary = cv.threshold(image, threshold, max_value, threshold_type)
+    return binary
+
+def apply_clahe(image, clip_limit=2.0, tile_grid_size=(8, 8)):
+    clahe = cv.createCLAHE(clipLimit=clip_limit, tileGridSize=tile_grid_size)
+    result = clahe.apply(image)
+    return result
+
+def apply_morphology(image, kernel_size=(3, 3), iterations=1):
+    inverted = cv.bitwise_not(image)
+    kernel = cv.getStructuringElement(cv.MORPH_RECT, kernel_size)
+    image = cv.morphologyEx(inverted, cv.MORPH_CLOSE, kernel, iterations)
+    return cv.bitwise_not(image)
+
+def apply_dilation(image, kernel_size=(3, 3), iterations=1):
+    inverted = cv.bitwise_not(image)
+    kernel = cv.getStructuringElement(cv.MORPH_RECT, kernel_size)
+    dilated = cv.dilate(inverted, kernel, iterations=iterations)
+    return cv.bitwise_not(dilated)
+
+def sharpen_image(image, strength=1.0):
+    kernel = np.array([
+        [0, -1, 0],
+        [-1, 5, -1],
+        [0, -1, 0]
+    ], dtype=np.float32) * strength
+    kernel[1, 1] += 1.0
+    sharpened = cv.filter2D(image, -1, kernel)
+    sharpened = np.clip(sharpened, 0, 255).astype(np.uint8)
+    return sharpened
+
+"""
+def apply_median_filter(image, kernel_size=3):
+    filtered = cv.medianBlur(image, kernel_size)
+    return filtered
 
 def apply_adaptive_threshold(image, max_value=255, method=cv.ADAPTIVE_THRESH_GAUSSIAN_C, 
                            threshold_type=cv.THRESH_BINARY, block_size=11, C=2):
@@ -23,18 +53,4 @@ def apply_adaptive_threshold(image, max_value=255, method=cv.ADAPTIVE_THRESH_GAU
         threshold_type, block_size, C
     )
 
-def apply_canny(image, threshold1=150, threshold2=200, aperture_size=3, L2gradient=False):
-    edges = cv.Canny(image, threshold1, threshold2, 
-                    apertureSize=aperture_size, 
-                    L2gradient=L2gradient)
-    return edges
-
-def apply_clahe(image, clip_limit=2.0, tile_grid_size=(8, 8)):
-    clahe = cv.createCLAHE(clipLimit=clip_limit, tileGridSize=tile_grid_size)
-    result = clahe.apply(image)
-    return result
-
-def apply_morphology(image, kernel_size=(3, 3), iterations=2):
-    kernel = cv.getStructuringElement(cv.MORPH_RECT, kernel_size)
-    image = cv.morphologyEx(image, cv.MORPH_OPEN, kernel, iterations)
-    return image
+"""
