@@ -1,7 +1,7 @@
 import cv2 as cv
 from image_process import *
 def getImage():
-    image = cv.imread('demo_photos/20250521_165030.jpg')
+    image = cv.imread('demo_photos/20250521_164924.jpg')
     image = resize_image(image)
     return image
 
@@ -10,15 +10,27 @@ def resize_image(image, width=800):
     resized_image = cv.resize(image, (width, height), interpolation=cv.INTER_AREA)
     return resized_image
 
-def process_image(image):
+def get_binary_image(image):
     image = convert_to_gray(image)
     image = apply_clahe(image)
     image = sharpen_image(image)
     image = apply_bilateral_filter(image)
     image = apply_threshold(image)
+    return image
+
+def remove_noise(image):
     image = apply_morphology(image)
     image = apply_dilation(image)
     image = remove_small_noise(image)
+    return image
+
+def process_image(image):
+    image = get_binary_image(image)
+    image = remove_noise(image)
+    image = apply_dilation(image)
+    image = apply_morphology(image)
+    image = skeletonize_skimage(image)
+    image = apply_dilation(image)
     return image
 
 if __name__ == "__main__":

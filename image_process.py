@@ -1,5 +1,7 @@
 import cv2 as cv
 import numpy as np
+from skimage.morphology import skeletonize as sk_skeletonize
+from skimage.util import invert
 
 def convert_to_gray(image):
     gray_image = cv.cvtColor(image, cv.COLOR_BGR2GRAY)
@@ -55,19 +57,13 @@ def remove_small_noise(binary_image, min_size=20, connectivity=8):
     
     return cv.bitwise_not(output)
 
+def skeletonize_skimage(binary_image, method='lee'):
+    binary = cv.bitwise_not(binary_image)
+    binary = (binary > 0).astype('uint8')
+    skeleton = sk_skeletonize(binary, method=method)
+    return cv.bitwise_not((skeleton * 255).astype('uint8'))
 
-
-def apply_median_filter(image, kernel_size=3):
-    filtered = cv.medianBlur(image, kernel_size)
-    return filtered
-
-"""
-
-def apply_adaptive_threshold(image, max_value=255, method=cv.ADAPTIVE_THRESH_GAUSSIAN_C, 
-                           threshold_type=cv.THRESH_BINARY, block_size=11, C=2):
-    return cv.adaptiveThreshold(
-        image, max_value, method, 
-        threshold_type, block_size, C
-    )
-
-"""
+def adjust_brightness(image, factor=1.0):
+    img_float = image.astype(np.float32)
+    adjusted = np.clip(img_float * factor, 0, 255)
+    return adjusted.astype(np.uint8)
