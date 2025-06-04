@@ -1,0 +1,27 @@
+0001.jpg	\tan(x)
+0002.jpg	\cos(x)
+0003.jpg	\sin(x)
+0004.jpg	a + b
+0005.jpg	x^2
+0006.jpg	\frac{b}{a}
+0007.jpg	y = ax^2 + bx + c
+0008.jpg	y = ax + b
+0009.jpg	\tan(x)
+0010.jpg	\ln{x}
+0011.jpg	\sqrt{x}
+0012.jpg	\int x\,dx
+0013.jpg	\sum_{i=1}^{n} i
+0014.jpg	a^2 + b^2 = c^2
+0015.jpg	e^{x}
+0016.jpg	\lim_{x \to 0} \frac{\sin x}{x}
+0017.jpg	\frac{dy}{dx}
+0018.jpg	\frac{d^2y}{dx^2}
+0019.jpg	|x|
+0020.jpg	\vec{v}
+0021.jpg	\overrightarrow{AB}
+0022.jpg	\alpha + \beta = \gamma
+0023.jpg	x \equiv a \pmod{m}
+0024.jpg	\binom{n}{k}
+0025.jpg	\left( \frac{a+b}{c} \right)^2
+0026.jpg	\sin^2{x} + \cos^2{x} = 1
+0027.jpg	\log{x}

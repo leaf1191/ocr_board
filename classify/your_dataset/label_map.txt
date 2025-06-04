@@ -1,0 +1,26 @@
+0	\tan(x)	삼각함수
+1	\cos(x)	삼각함수
+2	\sin(x)	삼각함수
+3	a + b	덧셈/뺄셈
+4	x^2	지수
+5	\frac{b}{a}	분수
+6	y = ax^2 + bx + c	지수
+7	y = ax + b	덧셈/뺄셈
+8	\ln{x}	로그/지수함수
+9	\sqrt{x}	루트
+10	\int x\,dx	집합
+11	\sum_{i=1}^{n} i	지수
+12	a^2 + b^2 = c^2	지수
+13	e^{x}	지수
+14	\lim_{x \to 0} \frac{\sin x}{x}	분수
+15	\frac{dy}{dx}	분수
+16	\frac{d^2y}{dx^2}	지수
+17	|x|	절댓값
+18	\vec{v}	벡터
+19	\overrightarrow{AB}	벡터
+20	\alpha + \beta = \gamma	덧셈/뺄셈
+21	x \equiv a \pmod{m}	방정식
+22	\binom{n}{k}	조합/이항계수
+23	\left( \frac{a+b}{c} \right)^2	부등식
+24	\sin^2{x} + \cos^2{x} = 1	지수
+25	\log{x}	로그/지수함수

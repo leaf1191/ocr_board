@@ -1,0 +1,62 @@
+gpu_devices: [0]
+backbone_layers: [2, 3, 7]
+betas: [0.9, 0.999]
+batchsize: 32
+channels: 1
+
+data: C:/Users/SS/PycharmProjects/CvTermproject/classify/your_dataset/train.pkl
+valdata: null
+test: C:/Users/SS/PycharmProjects/CvTermproject/classify/your_dataset/train.pkl
+
+debug: false
+decoder_args:
+  attn_on_attn: true
+  cross_attend: true
+  ff_glu: true
+  rel_pos_bias: false
+  use_scalenorm: false
+
+dim: 256
+encoder_depth: 4
+epochs: 50
+gamma: 0.9995
+heads: 8
+id: "run1"
+load_chkpt: null
+lr: 0.001
+lr_step: 30
+
+max_height: 352
+max_seq_len: 30
+max_width: 480
+micro_batchsize: -1
+min_height: 32
+min_width: 32
+model_path: checkpoints
+checkpoint: C:\Users\SS\PycharmProjects\CvTermproject\classify\your_dataset\checkpoint
+
+name: "my_new"
+num_layers: 4
+num_tokens: 8000
+no_cuda: false
+optimizer: Adam
+output_path: outputs
+pad: false
+patch_size: 16
+sample_freq: 100
+save_freq: 1
+scheduler: StepLR
+seed: 42
+encoder_structure: hybrid
+temperature: 0.2
+test_samples: 5
+wandb: false
+testbatchsize: 20
+tokenizer: C:\Users\SS\PycharmProjects\CvTermproject\classify\your_dataset\tokenizercf.json
+vocab_size: 8000
+bos_token: 2
+eos_token: 3
+unk_token: 1
+pad_token: 0
+valbatches: 100
+augment: false
