@@ -13,7 +13,7 @@ import keyboard
 from PIL import ImageGrab
 
 # Notion 정보
-NOTION_TOKEN = "시크릿 노션 토큰 기입"
+NOTION_TOKEN = "시크릿 노션 토큰 기입" #안넣으면 에러남 둘다
 NOTION_PAGE_ID = "노션 사이트 id 기입"
 
 def append_to_notion_page(content, token, block_id):
@@ -133,7 +133,8 @@ class ImageGUI:
                 self.image_label.image = self.photo
                 self.current_image_path = path
             except Exception as e:
-                messagebox.showerror("Error", str(e))
+                messagebox.showerror("Error", str(e).encode("utf-8", errors="replace").decode("utf-8"))
+
 
     def process_image(self):
         if hasattr(self, 'image'):
@@ -154,7 +155,8 @@ class ImageGUI:
                 append_to_notion_page(content, NOTION_TOKEN, NOTION_PAGE_ID)
 
             except Exception as e:
-                messagebox.showerror("Error", str(e))
+                messagebox.showerror("Error", str(e).encode("utf-8", errors="replace").decode("utf-8"))
+
 
     def copy_result(self):
         result = self.result_text.get(1.0, tk.END).strip()
