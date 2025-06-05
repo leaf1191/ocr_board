@@ -1,0 +1,1006 @@
+0000000.png	y = A x + A ^ { 2 }
+0000001.png	B _ { n } ( 1 - x ) = ( - 1 ) ^ { n } B _ { n } ( x )
+0000002.png	0 < x < 1
+0000003.png	A ( B + C ) = A B + A C
+0000004.png	A \times B
+0000005.png	A _ { 2 } > B _ { 2 }
+0000006.png	\forall x \in A , \forall y \in B , x < y
+0000007.png	\forall a , \forall b , \forall c , ( a , b , c ) = ( ( a , b ) , c )
+0000008.png	\exists Y , Y > j
+0000009.png	( A _ { 2 } B _ { 1 } )
+0000010.png	A = B \times C
+0000011.png	\forall y \in A
+0000012.png	\cos ( A + B )
+0000013.png	\exists i , C _ { 1 } [ i ] < C _ { 2 } [ i ]
+0000014.png	\gamma < B
+0000015.png	\gamma > \gamma _ { 0 } > 0
+0000016.png	\exists \alpha , \forall x \in [ a , b ]
+0000017.png	0 < \gamma _ { i } < \alpha
+0000018.png	A _ { 1 } , A _ { 2 } , \ldots , A _ { n }
+0000019.png	\frac { d } { d t } \{ A , B \} = \{ \frac { d A } { d t } , B \} + \{ A , \frac { d B } { d t } \}
+0000020.png	t _ { 2 } > t _ { 1 } > t _ { 0 }
+0000021.png	y ^ { n } < x B ^ { k }
+0000022.png	0 \leq b < B
+0000023.png	A = A _ { 1 } + A _ { 2 }
+0000024.png	\forall a \in A , \forall b \in B , a < b
+0000025.png	y _ { 1 } ( z ) < y ( z ) < y _ { 2 } ( z )
+0000026.png	\forall t \in [ 0 , 2 \pi ] , f ( t ) = e ^ { i t }
+0000027.png	A \times ( B \times C ) = ( A \times B ) \times C
+0000028.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000029.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000030.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000031.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000032.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000033.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000034.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000035.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000036.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000037.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000038.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000039.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000040.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000041.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000042.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000043.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000044.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000045.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000046.png	S = \Bigg ( \sum _ { i = 1 } ^ { n } \theta _ { i } - ( n - 2 ) \pi \Bigg ) r ^ { 2 }
+0000047.png	P = a _ { n } X ^ { n } + a _ { n - 1 } X ^ { n - 1 } + \ldots + a _ { 1 } X + a _ { 0 }
+0000048.png	e ^ { v } = c ( 1 )
+0000049.png	w _ { k } ( x ) = \frac { 1 } { d ( x , x _ { k } ) ^ { p } }
+0000050.png	T = T _ { 0 } + \Delta T
+0000051.png	( G z )
+0000052.png	m = \frac { A . k . R } { g }
+0000053.png	u _ { n } = u _ { p } q ^ { n - p }
+0000054.png	q = 3 6 \pi \frac { v ^ { 2 } } { s ^ { 3 } }
+0000055.png	( p _ { 1 } , \ldots , p _ { N } )
+0000056.png	i = E ( T _ { 0 } )
+0000057.png	B _ { 1 } = S _ { 1 } ( A _ { 1 } )
+0000058.png	q \times p
+0000059.png	G ( A ) = E - g ( F - f ( A ) )
+0000060.png	E _ { 1 } , \ldots , E _ { k }
+0000061.png	r = M
+0000062.png	B ( t ) - B ( s )
+0000063.png	\Delta x = x ^ { \prime } - x
+0000064.png	y = s x + t
+0000065.png	G M m / R ^ { 2 }
+0000066.png	( T _ { f u s } )
+0000067.png	\frac { m + m ^ { \prime } } { n + n ^ { \prime } } \gt \frac { a } { b }
+0000068.png	l = v t / 2
+0000069.png	\mu e \frac { N } { L ^ { 2 } } = R ^ { - 1 }
+0000070.png	( E _ { i j } )
+0000071.png	H R = \frac { P _ { v } } { P _ { v s a t } }
+0000072.png	\int _ { 1 } ^ { + \infty } \frac { 1 } { t ^ { 2 } } \mathrm d t
+0000073.png	\frac { 1 } { \sqrt { - 2 g y ( 1 + { y ^ { \prime } } ^ { 2 } ) } } = k
+0000074.png	\mathrm d \left( x , y \right) = p \left( x - y \right)
+0000075.png	d g = \frac { 1 } { | a | } d a d b
+0000076.png	\int \mathrm d x = x + C
+0000077.png	S ^ { \prime } P = r ^ { \prime }
+0000078.png	a ( v ^ { 2 } ) = a
+0000079.png	| x - u | \lt \frac { a } { 4 }
+0000080.png	q \lt - 1
+0000081.png	\left| x - \frac { a } { b } \right| \leq \frac { 1 } { \sqrt 5 b ^ { 2 } }
+0000082.png	I _ { A } \leq I _ { B } \leq I _ { C }
+0000083.png	u ( t ) - v ( t )
+0000084.png	S _ { m a x } = P \frac { \alpha } { 1 - \alpha }
+0000085.png	\gamma _ { 1 } = \frac { \mu _ { 3 } } { \sigma ^ { 3 } }
+0000086.png	T _ { 8 5 0 }
+0000087.png	T X _ { i } = X _ { i + 1 }
+0000088.png	M _ { i } ( x _ { i } , y _ { i } )
+0000089.png	P ( X ) P ^ { \prime } ( X ) = R ( X )
+0000090.png	u \in S
+0000091.png	P ( b / c )
+0000092.png	( v _ { 1 } , \ldots , v _ { n } )
+0000093.png	T o = \sqrt { \frac { 2 H } g }
+0000094.png	S _ { n + 1 } = S _ { n } S _ { n - 1 }
+0000095.png	s = 1
+0000096.png	L _ { 0 }
+0000097.png	\{ x P ( x ) \}
+0000098.png	G _ { 2 k }
+0000099.png	a _ { 2 } = \frac { P [ x _ { 0 } , x _ { 1 } ] - P [ x _ { 1 } , x _ { 2 } ] } { x 0 - x 2 } = P [ x _ { 0 } , x _ { 1 } , x _ { 2 } ]
+0000100.png	y ^ { \prime } ( a )
+0000101.png	\sigma ( 0 ) = 0 1
+0000102.png	S _ { n } = X _ { 1 } + X _ { 2 } + \ldots + X _ { n }
+0000103.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000104.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000105.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000106.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000107.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000108.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000109.png	c _ { 1 } ( \alpha - E ) + c _ { 2 } ( \beta ) = 0
+0000110.png	P _ { C V } = \frac { C } { 4 5 } + ( \frac { P } { 4 0 } ) \times 1 . 6
+0000111.png	f ^ { \prime } ( x ) = 2 a x + b
+0000112.png	\frac { 1 } { T } \int _ { - T / 2 } ^ { T / 2 } P ( t ) e ^ { - i \frac { 2 n \pi } { T } } d t = c _ { n } ( P ) ( 1 )
+0000113.png	1 + a ( p ) p ^ { - s } + a ( p ^ { 2 } ) p ^ { - 2 s } + \ldots
+0000114.png	{ \sqrt { 2 } = \frac { p } { q } }
+0000115.png	\int _ { b } ^ { a } f ( x ) \mathrm d x = - \int _ { a } ^ { b } f ( x ) \mathrm d x
+0000116.png	\mathrm { c a r d } ( B ^ { A } ) = 2 ^ { \mathrm { c a r d } ( A ) }
+0000117.png	P _ { 1 } = P ^ { \prime }
+0000118.png	T ( g ) = 0
+0000119.png	\mu _ { n } = E [ X ^ { n } ]
+0000120.png	\sigma ( { A } _ { i } )
+0000121.png	\alpha = 2 \sqrt { \frac { l ( u ) } { L } }
+0000122.png	v _ { 3 } = \frac { 1 } { 4 } ( - 1 - \sqrt { 1 7 } + \sqrt { 3 4 + 2 \sqrt 1 7 } ) v _ { 4 } = \frac { 1 } { 4 } ( - 1 - \sqrt { 1 7 } - \sqrt { 3 4 + 2 \sqrt 1 7 } )
+0000123.png	\frac { 2 s ^ { 2 } } { 5 t } x ^ { 5 } + s x ^ { 4 } + t x ^ { 3 } + \frac { t ^ { 2 } } { 2 s } x ^ { 2 } + \frac { t ^ { 3 } } { 8 s ^ { 2 } } x + a _ { 0 } = 0
+0000124.png	V _ { i } - V _ { o }
+0000125.png	s p _ { t } \lt 0
+0000126.png	A = \{ a _ { 0 } , \ldots , a _ { | A | } \}
+0000127.png	S ^ { 4 m + 1 }
+0000128.png	\frac { C _ { p A } ^ { k } C _ { q A } ^ { n - k } } { C _ { A } ^ { n } }
+0000129.png	T _ { N } = 1 0 0
+0000130.png	P ( r )
+0000131.png	H , H ^ { \prime } , M
+0000132.png	t _ { 1 } = \frac { L } { c + V _ { p } }
+0000133.png	A ^ { n } + \ldots + c _ { 0 } I _ { n }
+0000134.png	f = \frac { \sqrt { 5 } } { R C }
+0000135.png	M ( 2 2 )
+0000136.png	P _ { f } = p _ { c } \times ( 1 - o _ { i } - o _ { t } ) + o _ { t }
+0000137.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000138.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000139.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000140.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000141.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000142.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000143.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000144.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000145.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000146.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000147.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000148.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000149.png	\frac { b ^ { 2 } c ^ { 2 } - 4 b ^ { 3 } d - 4 a c ^ { 3 } + 1 8 a b c d - 2 7 a ^ { 2 } d ^ { 2 } } { a ^ { 4 } }
+0000150.png	y ^ { 4 } + y + 1 = 0
+0000151.png	y ^ { 4 } + y + 1 = 0
+0000152.png	y ^ { 4 } + y + 1 = 0
+0000153.png	y ^ { 4 } + y + 1 = 0
+0000154.png	y ^ { 4 } + y + 1 = 0
+0000155.png	y ^ { 4 } + y + 1 = 0
+0000156.png	i . M
+0000157.png	1 g = N _ { A } u
+0000158.png	H _ { 4 } ^ { ( 0 ) } = { 0 x c 3 d 2 e 1 f 0 }
+0000159.png	( s _ { 1 } , \ldots , s _ { m } )
+0000160.png	z = | z | \mathrm { e } ^ { i \theta }
+0000161.png	V . f ( p ) = N k T
+0000162.png	\frac { 1 } { 2 { \pi } i } \int _ { c - i \infty } ^ { c + i \infty } g ( s ) t ^ { s } = \pi ( t )
+0000163.png	P _ { n m m }
+0000164.png	p = \frac { 2 ( N _ { 0 } - N _ { t } ) } { 2 N _ { 0 } }
+0000165.png	c - w _ { i }
+0000166.png	k ( p + q ) = p . q - 1
+0000167.png	L ( v ) L ( u ^ { \prime } )
+0000168.png	a ^ { \prime } = \frac { a } { \sqrt 2 }
+0000169.png	\frac { ( n + k - 1 ) ( n + k - 2 ) \ldots ( n + 1 ) n } { k ( k - 1 ) \ldots 2 \times 1 }
+0000170.png	R _ { d } = R _ { f }
+0000171.png	( n + 1 ) P _ { n + 1 } ( x ) = ( 2 n + 1 ) x P _ { n } ( x ) - n P _ { n - 1 } ( x )
+0000172.png	\log 2 ( 4 )
+0000173.png	s = \frac { 1 } { 2 } + i t
+0000174.png	E x t
+0000175.png	a = \frac { v ^ { 2 } } { R }
+0000176.png	y \times y ^ { \prime } - x \times x ^ { \prime } \geq 0
+0000177.png	A B ^ { 2 } + A C ^ { 2 } = \frac { 1 } { 2 } B C ^ { 2 } + 2 A I ^ { 2 }
+0000178.png	4 \pi ^ { 2 } a R
+0000179.png	F ( t ) = { e } ^ { h t }
+0000180.png	I _ { 1 } = I _ { 1 _ { m i } } + \frac { V _ { e } } { L _ { 1 } } t
+0000181.png	P ^ { i } P _ { i } = m ^ { 2 } c ^ { 2 } \frac { V ^ { i } V _ { i } } { ( \sqrt { V ^ { j } V _ { j } } ) ^ { 2 } } = m ^ { 2 } c ^ { 2 }
+0000182.png	P _ { o } ( \cos \theta ) = 1
+0000183.png	y ^ { 4 } + y + 1 = 0
+0000184.png	y ^ { 4 } + y + 1 = 0
+0000185.png	y ^ { 4 } + y + 1 = 0
+0000186.png	y ^ { 4 } + y + 1 = 0
+0000187.png	y ^ { 4 } + y + 1 = 0
+0000188.png	y ^ { 4 } + y + 1 = 0
+0000189.png	y ^ { 4 } + y + 1 = 0
+0000190.png	y ^ { 4 } + y + 1 = 0
+0000191.png	y ^ { 4 } + y + 1 = 0
+0000192.png	y ^ { 4 } + y + 1 = 0
+0000193.png	y ^ { 4 } + y + 1 = 0
+0000194.png	y ^ { 4 } + y + 1 = 0
+0000195.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000196.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000197.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000198.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000199.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000200.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000201.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000202.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000203.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000204.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000205.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000206.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000207.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000208.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000209.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000210.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000211.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000212.png	a ^ { 2 } + b ^ { 2 } = ( a + b i ) ( a - b i )
+0000213.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000214.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000215.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000216.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000217.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000218.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000219.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000220.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000221.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000222.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000223.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000224.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000225.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000226.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000227.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000228.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000229.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000230.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000231.png	a ^ { x } a ^ { y } = a ^ { x + y }
+0000232.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000233.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000234.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000235.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000236.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000237.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000238.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000239.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000240.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000241.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000242.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000243.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000244.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000245.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000246.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000247.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000248.png	\sqrt [ x ] { \frac { a } { b } } = \frac { \sqrt [ x ] { a } } { \sqrt [ x ] { b } }
+0000249.png	\Delta H _ { I }
+0000250.png	M \in S
+0000251.png	\sigma \in X
+0000252.png	T \in E
+0000253.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000254.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000255.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000256.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000257.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000258.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000259.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000260.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000261.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000262.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000263.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000264.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000265.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000266.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000267.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000268.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000269.png	\frac { 1 } { \frac { 1 } { 2 } \Big ( \frac { 1 } { a } + \frac { 1 } { b } \Big ) } = \frac { 2 a b } { a + b }
+0000270.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000271.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000272.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000273.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000274.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000275.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000276.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000277.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000278.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000279.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000280.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000281.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000282.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000283.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000284.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000285.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000286.png	\sqrt [ n ] { 1 } = \cos \frac { 2 k \pi } { n } + i \sin \frac { 2 k \pi } { n }
+0000287.png	f ( \sigma + i t )
+0000288.png	A i r e = ( 6 4 / 8 1 ) \times d ^ { 2 }
+0000289.png	L i _ { s } ( z )
+0000290.png	u ( b )
+0000291.png	N = ( n - 1 ) \times 1 0 ^ { 6 }
+0000292.png	v ^ { j } e _ { j }
+0000293.png	L _ { 0 } , L _ { 1 } , \ldots
+0000294.png	{ f = F / ( R T ) }
+0000295.png	\Delta H ^ { 0 }
+0000296.png	{ E = \frac { 1 } { 2 } k T }
+0000297.png	\frac { d A } { d t } = \{ A , H \} = 0
+0000298.png	\sigma = \frac { 1 } { 2 }
+0000299.png	T _ { n } ( T _ { m } ( X ) ) = T _ { m n } ( X )
+0000300.png	H _ { 3 } ( R )
+0000301.png	v _ { p } ( n )
+0000302.png	T _ { 0 } ( X ) = 1
+0000303.png	\frac { V } { T } = \frac { n R } { p }
+0000304.png	( B T _ { B } )
+0000305.png	f ( H )
+0000306.png	p \neq q
+0000307.png	n = \frac { \sin ( \theta _ { i } ) } { \sin ( \theta _ { r } ) }
+0000308.png	\Delta S _ { 1 , 2 }
+0000309.png	q = \sum _ { i = 1 } ^ { s } l _ { i } ^ { 2 } - \left( \sum _ { i = s + 1 } ^ { r } l _ { i } ^ { 2 } \right)
+0000310.png	e _ { s } + 1 , \ldots , e _ { r }
+0000311.png	P a . s
+0000312.png	u \mathrm d v = \mathrm d ( u v ) - v \mathrm d u
+0000313.png	g ( z ) = z . u ( z )
+0000314.png	b ^ { \prime } = \sum _ { i j } \mu _ { i j } a _ { i j }
+0000315.png	s = n + \alpha
+0000316.png	u _ { n } \gtM
+0000317.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000318.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000319.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000320.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000321.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000322.png	\tan \gamma _ { H } = \tan H \sin \phi
+0000323.png	I ^ { - 1 }
+0000324.png	M = ( \alpha _ { i k } . \beta _ { j l } )
+0000325.png	[ \frac { 2 u } { 3 } + \frac { v } { 3 } , \frac { 2 v } { 3 } + \frac { u } { 3 } ]
+0000326.png	L ( w ) = \frac { m } { 2 } | | w | | ^ { 2 } - V ( r )
+0000327.png	H _ { 5 } = X ^ { 5 } - 1 0 X ^ { 3 } + 1 5 X
+0000328.png	g _ { 1 } ( x ) = \frac { 1 } { 2 } ( f _ { 1 } ( x ) + f _ { 2 } ( x ) ) = e ^ { u x } \cos ( v x )
+0000329.png	f ^ { \prime } \left( x \right) = n \left( 1 + x \right) ^ { n - 1 } - n
+0000330.png	\operatorname* { l i m } _ { x \rightarrow a } f ( x ) = l
+0000331.png	2 ^ { 2 ^ { N } }
+0000332.png	M _ { k } ( n ) = \frac { 1 } { 2 } n ( n ^ { k } + 1 )
+0000333.png	r ^ { l } Y _ { l , m }
+0000334.png	E = p c
+0000335.png	i _ { A } ( t ) = I _ { S } \sqrt { 2 } \cos \alpha _ { S }
+0000336.png	{ E _ { \theta _ { 2 } } }
+0000337.png	4 m _ { i + 1 } = 4 ( { x _ { i + 1 } } ^ { 2 } + 2 x _ { i } + 1 ^ { 2 } ) + 4 { y _ { i } } ^ { 2 } + 8 ( x _ { i } + 1 ) - 4 y _ { i } + 5 - 4 R ^ { 2 }
+0000338.png	V d P = - n P d V
+0000339.png	P \gtp + \frac { a q } { 1 - q }
+0000340.png	\operatorname* { l i m } _ { T \rightarrow \infty } x _ { T } ( t ) = x ( t )
+0000341.png	R _ { g } \ltq ^ { - 1 } \ltl _ { 0 }
+0000342.png	[ X Y ] = [ X ^ { \prime } Y ^ { \prime } ]
+0000343.png	E [ X ] = \mu E [ ( X - \mu ) ^ { 2 } ] = \sigma ^ { 2 }
+0000344.png	\frac { P _ { i } } { \gamma } + \frac { V _ { i } ^ { 2 } } { 2 g } - \frac { P _ { v } } { \gamma }
+0000345.png	S _ { 2 0 , w }
+0000346.png	\Delta \theta = 0
+0000347.png	E ( P )
+0000348.png	E = F _ { e } \times l = \frac { 1 } { 2 } m v ^ { 2 }
+0000349.png	y ^ { 2 } = - \sqrt { q }
+0000350.png	\sigma _ { F } ( R )
+0000351.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000352.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000353.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000354.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000355.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000356.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000357.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000358.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000359.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000360.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000361.png	x = \frac { - b \pm \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000362.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000363.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000364.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000365.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000366.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000367.png	\frac { V _ { o } } { V _ { i } } = - \frac { \alpha } { 1 - \alpha }
+0000368.png	\left| V _ { s } \right| = \frac { V _ { s } } { V _ { e } }
+0000369.png	f ( u _ { 1 } ) = u _ { 2 }
+0000370.png	\mu _ { i } = d _ { i }
+0000371.png	q = w + x i + y j + z k
+0000372.png	a = \frac { 8 R } { \sqrt { 3 } }
+0000373.png	u _ { n + 1 } = f ( u _ { n } )
+0000374.png	S _ { i } = 0
+0000375.png	X = R ^ { 2 } \frac { b _ { 1 } - b _ { 2 } } { a _ { 1 } b _ { 2 } - a _ { 2 } b _ { 1 } }
+0000376.png	\phi _ { A } = \frac { M _ { 0 } L } { 3 E I }
+0000377.png	x = \sqrt { | a | } \times i
+0000378.png	N u = 0 . 1 3 ( P r . G r ) ^ { 0 . 3 3 }
+0000379.png	v _ { 1 } = e ^ { \frac { - 2 i \pi } { 9 } }
+0000380.png	1 + z = \frac { 1 } { \sqrt { 1 - \frac { 2 G M } { R c ^ { 2 } } } }
+0000381.png	o \in N i l ( A )
+0000382.png	\Delta _ { r } G _ { T } ^ { 0 }
+0000383.png	p V = N k _ { B } T
+0000384.png	\sigma = \sqrt { \sigma ^ { 2 } }
+0000385.png	p g c d ( n , P ) = 1
+0000386.png	S ( f ) = \frac { 1 } { R } s i n c ^ { 2 } \frac { f } { 2 R } \sin ^ { 2 } \frac { \pi f } { 2 R }
+0000387.png	| u _ { n _ { 0 } } - a | \lt \frac { 1 } { n }
+0000388.png	R ^ { \prime } = \frac { R } { 3 }
+0000389.png	F _ { - n } ( x ) = - \frac 1 { n - 1 } x ^ { - n + 1 } + C s t e = - \frac 1 { n - 1 } \frac 1 { x ^ { n - 1 } }
+0000390.png	v _ { 2 } = { v _ { 1 } } ^ { 2 }
+0000391.png	M = \frac { P L } { 4 }
+0000392.png	v - u
+0000393.png	\int _ { a } ^ { b } e ^ { M f ( x ) } d x
+0000394.png	s _ { j } ( t )
+0000395.png	{ f ( x ) = \sum _ { k = 1 } ^ { \infty } \frac { \sin ( 2 ^ { k } x ) } { \sqrt { 2 } ^ { k } } }
+0000396.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000397.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000398.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000399.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000400.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000401.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000402.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000403.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000404.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000405.png	y ^ { 2 } \pm \sqrt { u - p } \Bigg ( y - \frac { q } { 2 ( u - p ) } \Bigg ) + \frac { u } { 2 } = 0
+0000406.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000407.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000408.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000409.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000410.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000411.png	V = f ( p . d / T )
+0000412.png	G / H _ { G }
+0000413.png	B ( X , M )
+0000414.png	A = \pi . R a . R b
+0000415.png	2 s p _ { z }
+0000416.png	E = \sqrt { p ^ { 2 } c ^ { 2 } + m ^ { 2 } c ^ { 4 } }
+0000417.png	C _ { n + 1 } ( E ) = C _ { 1 } \left( C _ { n } ( E ) \right)
+0000418.png	\frac { u - 3 } { 2 } + 4 \gt 5 u
+0000419.png	{ R e d }
+0000420.png	L _ { v } = 3 3 3 5 - 2 , 9 1 T
+0000421.png	r _ { C } = \frac { 2 S } { a + b - c }
+0000422.png	f ( N ) = \{ 0 _ { L } \}
+0000423.png	1 = \frac { p e ^ { \frac { p } { q } } } { q }
+0000424.png	A ( 0 , R , \infty )
+0000425.png	r ^ { \prime } = B ^ { n } x + \alpha - ( B y + \beta ) ^ { n }
+0000426.png	\pi _ { 0 } ( G )
+0000427.png	d V = y z d x + z x d y + x y d z
+0000428.png	c ( w )
+0000429.png	L / \log ( L )
+0000430.png	| | { r } - { r } _ { 2 } | |
+0000431.png	I = 1 0
+0000432.png	C ^ { 1 } ( G ) = G
+0000433.png	I _ { d } = I _ { i } k _ { d } \sin \theta
+0000434.png	H _ { 2 n }
+0000435.png	\frac { \sin { \theta } } { v } = \mathrm { C s t e }
+0000436.png	| | z - x | | \leq | | z - y | | + | | y - x | |
+0000437.png	S ^ { 1 } \times R ^ { n - 1 }
+0000438.png	I _ { 1 _ { m a x } }
+0000439.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000440.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000441.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000442.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000443.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000444.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000445.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000446.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000447.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000448.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000449.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000450.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000451.png	P ( x ) = \sum _ { i = 0 } ^ { n } a _ { j } x ^ { j }
+0000452.png	\Delta L
+0000453.png	\forall u \in V
+0000454.png	P ^ { \mu } P _ { \mu }
+0000455.png	R ^ { i j } - \frac { 1 } { 2 } g ^ { i j } R = 0
+0000456.png	a _ { 1 } = \frac { M _ { 2 } } { M _ { 1 } + M _ { 2 } } a
+0000457.png	u = R i
+0000458.png	u = x
+0000459.png	x = \frac { m _ { e a u } } { m _ { a i r s e c } }
+0000460.png	I m f
+0000461.png	f ( z ) = a ( z - z _ { 0 } ) + b + o ( z - z _ { 0 } )
+0000462.png	\frac { \mu - 1 } { \mu }
+0000463.png	( \mu + 1 )
+0000464.png	e ^ { a ( - 1 + 2 w ) } = w ^ { \frac { 3 \sqrt { 3 } a } { \pi } }
+0000465.png	( y - y ^ { c a l c } )
+0000466.png	p _ { A } = u + c [ L + \frac { 1 } { 3 } ( a - b ) ]
+0000467.png	| B - \beta |
+0000468.png	P ( X _ { 1 } , \ldots , X _ { N } ) = \frac { e ^ { - \frac { E } { k _ { B } T } } } { \int d X _ { 1 } d X _ { 2 } \ldots }
+0000469.png	F ( ( T ) )
+0000470.png	u ( a b ^ { - 1 } - c b b ^ { - 1 } d ^ { - 1 } ) = 0
+0000471.png	( 2 )
+0000472.png	- ( T _ { 7 0 0 } - T _ { d _ { 7 0 0 } } )
+0000473.png	I _ { m o y }
+0000474.png	B _ { N } ( a ) = \sum _ { k = N } ^ { \infty } \frac { 1 6 ^ { N - k } } { 8 k + a }
+0000475.png	k ^ { 2 } = u . a ^ { n } + v
+0000476.png	u _ { n } = o ( v _ { n } )
+0000477.png	C _ { V } \gt 0
+0000478.png	C ( 0 , R )
+0000479.png	S _ { 2 } = n S _ { 1 }
+0000480.png	1 0 2 4 \times ( 1 0 + 2 5 6 ^ { 1 } + 2 5 6 ^ { 2 } + 2 5 6 ^ { 3 } ) = 1 7 2 4 7 2 5 0 4 3 2
+0000481.png	I _ { i } = \sum _ { j } w _ { i j } V _ { j }
+0000482.png	x _ { 2 } + v _ { 2 } . \Delta t
+0000483.png	\Delta w _ { i j } = f ( y _ { i } ) \times g ( y _ { j } )
+0000484.png	E , F
+0000485.png	\frac { S _ { a } } { S _ { r } }
+0000486.png	u _ { n + 2 } = u _ { n } + u _ { n + 1 }
+0000487.png	\frac { P } { 6 4 0 }
+0000488.png	| | y _ { n } - y _ { m } | | ^ { 2 } = 2 | | y _ { n } - x | | ^ { 2 } + 2 | | y _ { m } - x | | ^ { 2 } - 4 | | \frac { y _ { n } + y _ { m } } 2 - x | | ^ { 2 }
+0000489.png	V _ { i } = \frac { v _ { i } } { v } = \frac { p _ { i } } { p }
+0000490.png	e ^ { 2 \pi i b y r / N } = 1
+0000491.png	\mu = m _ { 1 } - m
+0000492.png	\beta ^ { \prime } ( s )
+0000493.png	M \times N
+0000494.png	y \mathrm d x + x \mathrm d y = 0
+0000495.png	f ( 1 / s )
+0000496.png	e = 6 , 1 1 \times e ^ { 5 4 1 7 , 7 5 3 0 \times ( ( 1 / 2 7 3 , 1 6 ) - ( 1 / T _ { d } ) ) }
+0000497.png	u _ { L } = L \frac { d i } { d t }
+0000498.png	H _ { i - 1 }
+0000499.png	S = \frac 1 { \frac { 1 } { E } - \frac { 1 } { P } }
+0000500.png	E ( s _ { n } ^ { 2 } ) = E ( X ) ^ { 2 } + V ( X ) - E ( X ) ^ { 2 } - \frac { 1 } { n } V ( X ) = \frac { n - 1 } { n } V ( X )
+0000501.png	| f ( \frac { p } { q } ) |
+0000502.png	\mu _ { p } = \left( \frac { L } { t _ { r } } \right) \left( \frac { L _ { t } } { V } \right)
+0000503.png	I _ { c } = f ( V _ { c e } )
+0000504.png	\mu _ { 0 }
+0000505.png	\frac { m V ^ { 2 } } { 2 }
+0000506.png	M ( z )
+0000507.png	p ^ { S A } \gt p ^ { A E }
+0000508.png	n = \frac { L } { 2 } \sqrt { \frac { t } { c _ { o } } }
+0000509.png	u \neq v
+0000510.png	E _ { 0 }
+0000511.png	H _ { 6 } = X ^ { 6 } - 1 5 X ^ { 4 } + 4 5 X ^ { 2 } - 1 5
+0000512.png	\mu P a
+0000513.png	w = w ( r , t )
+0000514.png	G ( k , F ( k , M ) ) = M
+0000515.png	\left| a - \frac { p } { q } \right| \geq \frac { C } { q ^ { d } }
+0000516.png	\Delta s ^ { 2 } = c ^ { 2 } \Delta t ^ { 2 } - \left( \Delta x ^ { 2 } + \Delta y ^ { 2 } + \Delta z ^ { 2 } \right) = c ^ { 2 } \Delta t ^ { 2 } - \Delta l ^ { 2 }
+0000517.png	T _ { i j } = P a ^ { 2 } \gamma _ { i j }
+0000518.png	p = 2 \times l - q
+0000519.png	L = 2 ^ { 1 / 4 } \mathrm { m } = 1 1 8 , 9 \mathrm { c m }
+0000520.png	j ( { q } )
+0000521.png	L = [ 0 , 1 ]
+0000522.png	\sum _ { i = 1 } ^ { m } N _ { i } = n \sum _ { i = 1 } ^ { m } p _ { i } = 1
+0000523.png	x = v _ { 4 } + v _ { 1 }
+0000524.png	d B \left( V ^ { \prime } \right) = d B \left( V \right)
+0000525.png	f ^ { \prime } \left( x \right)
+0000526.png	y ^ { o b s }
+0000527.png	P _ { d } ( u )
+0000528.png	P [ X ] = 0 a v e c P [ X ] = X ^ { 3 } - 3 X + 1
+0000529.png	R = k [ X _ { 1 } , \ldots , X _ { n } ]
+0000530.png	M ( r )
+0000531.png	M N = N M
+0000532.png	l _ { 1 } = L _ { 1 } - \frac { M } { m }
+0000533.png	S = \{ 1 , s , s ^ { 2 } , s ^ { 3 } . . . . . . . \}
+0000534.png	N / M
+0000535.png	H S _ { 2 }
+0000536.png	( 2 - s ) ( - 1 / 2 ) + ( n - 1 ) ( 1 - s / 2 ) = 0
+0000537.png	L _ { 2 } ^ { ( \alpha ) } ( x ) = \frac { x ^ { 2 } } { 2 } - ( \alpha + 2 ) x + \frac { ( \alpha + 2 ) ( \alpha + 1 ) } { 2 }
+0000538.png	H = \frac { ( f d ) } { c }
+0000539.png	V = \int _ { 0 } ^ { x _ { 1 } } 2 S \mathrm d x
+0000540.png	C _ { p } = \frac { \gamma n R } { \gamma - 1 }
+0000541.png	S _ { 2 } = S _ { 0 } + f _ { 2 }
+0000542.png	1 0 ^ { - p H _ { i } }
+0000543.png	E _ { 1 } = E _ { 0 } / ( 1 6 \pi ^ { 2 } )
+0000544.png	N _ { n - 1 }
+0000545.png	V _ { m } = G \times V
+0000546.png	T ( t ) = \frac { \alpha ^ { \prime } ( t ) } { | | \alpha ^ { \prime } ( t ) | | }
+0000547.png	R _ { 3 \times 3 } ^ { T }
+0000548.png	S _ { n } = X _ { 1 } + X _ { 2 } + \ldots + X _ { n }
+0000549.png	P _ { s a t ( T ) }
+0000550.png	C _ { t } = N \times ( G - 1 ) \times C
+0000551.png	y _ { 0 } = G ( x _ { 0 } ) = \frac { 1 } { 4 }
+0000552.png	\gamma = \frac { 4 \pi ^ { 2 } m V _ { 0 } } { p _ { 0 } S ^ { 2 } T ^ { 2 } }
+0000553.png	\Delta F \lt 0
+0000554.png	\operatorname* { l i m } _ { x \rightarrow + \infty } f ( x ) = l
+0000555.png	0 \lt \left( 1 - \frac { L } { R _ { 1 } } \right) \left( 1 - \frac { L } { R _ { 2 } } \right) \lt 1
+0000556.png	z ^ { 2 } + w ^ { 2 }
+0000557.png	T = 1
+0000558.png	P ^ { k - 1 }
+0000559.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000560.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000561.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000562.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000563.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000564.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000565.png	( A _ { N - 1 } \dots A _ { 0 } ) = N _ { k }
+0000566.png	\Delta t _ { i }
+0000567.png	m . \frac { d ^ { 2 } z } { d t ^ { 2 } } = q . { E _ { z } } + q . ( v _ { x } . B _ { y } - v _ { y } . B _ { x } )
+0000568.png	E = \frac { a } { \frac b c }
+0000569.png	d ( A , ( d ) ) = | x _ { A } - a |
+0000570.png	L _ { 0 } = \int _ { 0 } ^ { x _ { 0 } } \sqrt { 1 + \frac { 9 a ^ { 2 } } 4 x } \mathrm d x
+0000571.png	f ( M )
+0000572.png	| f ( x ) | \leq p ( x )
+0000573.png	H C N _ { n , n }
+0000574.png	N = 3
+0000575.png	w _ { k } ^ { 2 } = | z | \mathrm { e } ^ { i \theta } \mathrm { e } ^ { 2 i \pi k } = z
+0000576.png	\frac { m + m ^ { \prime } } { n + n ^ { \prime } } \lt \frac { a } { b }
+0000577.png	( p + q ) \times ( p + q )
+0000578.png	E _ { i } E _ { j } = 0
+0000579.png	f = \frac { 1 } { T }
+0000580.png	B ( L ( S ) ) , B ( R ( S ) )
+0000581.png	\sigma = \frac { F } { S }
+0000582.png	E _ { 1 } , E _ { 2 } , F _ { 1 } , F _ { 2 }
+0000583.png	V _ { r } = V _ { i }
+0000584.png	P = \sum _ { k = 0 } ^ { p } a k X ^ { k }
+0000585.png	s = 1 , 2 6 . 1 0 ^ { - 6 } m o l . L ^ { - 1 }
+0000586.png	t _ { 0 } = \frac { 2 } { 3 ( 1 + w ) } \frac { 1 } { H _ { 0 } }
+0000587.png	\sigma = 1
+0000588.png	H ( X , Y ) \geq H ( X )
+0000589.png	\frac { \Delta V } { V _ { 0 } }
+0000590.png	S = 0
+0000591.png	y _ { i } ^ { a c }
+0000592.png	F _ { u } = M _ { u u } M _ { v } + M _ { u v } M _ { u }
+0000593.png	( S M )
+0000594.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000595.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000596.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000597.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000598.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000599.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000600.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000601.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000602.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000603.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000604.png	\sum _ { i = 1 } ^ { k } \frac { x ^ { a _ { i } } } { 1 - x ^ { b _ { i } } } = \frac { 1 } { 1 - x }
+0000605.png	q ( x ) = p ( x + a )
+0000606.png	( p , q ) \gt ( p ^ { \prime } , q ^ { \prime } )
+0000607.png	V A = \sum _ { i } V A ( F _ { i } )
+0000608.png	\left( M _ { i } ^ { j } \right)
+0000609.png	G _ { u } = 2 M _ { u v } M _ { v }
+0000610.png	( M _ { 1 } M _ { 3 } )
+0000611.png	L ( X ^ { n } ) = 2 ^ { n }
+0000612.png	L _ { \mu } = L _ { 1 }
+0000613.png	E ^ { 2 } - p ^ { 2 } c ^ { 2 } = m ^ { 2 } c ^ { 4 } = 0
+0000614.png	( v , r )
+0000615.png	L ( E , F )
+0000616.png	q \in E
+0000617.png	v _ { L G }
+0000618.png	I d _ { A }
+0000619.png	w ^ { \alpha } = \frac { 2 } { \sqrt { 3 } } ( \cos ( \frac { \alpha \pi } { 3 } + \frac { \pi } { 6 } ) + w \sin \frac { \alpha \pi } { 3 } )
+0000620.png	c . s ^ { 2 }
+0000621.png	L = a
+0000622.png	u = g \frac t v
+0000623.png	1 / v ^ { 2 }
+0000624.png	d E = u I \times d t
+0000625.png	P _ { 1 } = P _ { 0 } \frac { S _ { 1 } } { S _ { 0 } }
+0000626.png	T _ { 0 } , T _ { 1 } , \ldots , T _ { r - 2 } , 1
+0000627.png	I = a . A
+0000628.png	M \rightarrow N
+0000629.png	\Delta _ { r } H
+0000630.png	u \in E , v \in E , w \in E
+0000631.png	\pm w ( r , t )
+0000632.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000633.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000634.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000635.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000636.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000637.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000638.png	| | f | | ^ { 2 } = \frac { 1 } { 4 } a _ { 0 } ^ { 2 } + \frac { 1 } { 2 } \sum _ { n = 1 } ^ { + \infty } ( a _ { n } ^ { 2 } + b _ { n } ^ { 2 } )
+0000639.png	\Delta d = c . \Delta t
+0000640.png	G = 1 0 \log \left( { \frac { V _ { s } } { V _ { e } } } \right) ^ { 2 } \mathrm { d B }
+0000641.png	( P A )
+0000642.png	N - G
+0000643.png	\mathrm d s ^ { 2 } = \mathrm d r ^ { 2 } + r ^ { 2 } \mathrm d \theta ^ { 2 } + \mathrm d z ^ { 2 }
+0000644.png	G L _ { m }
+0000645.png	u _ { N + 1 } , v _ { N + 1 }
+0000646.png	( E _ { 0 } )
+0000647.png	- X _ { t } \mathrm d t
+0000648.png	u u ^ { \prime } + v v ^ { \prime } + w w ^ { \prime } = 0
+0000649.png	a ^ { p / q }
+0000650.png	a = p / q
+0000651.png	a , b , c , a ^ { \prime } , b ^ { \prime } , c ^ { \prime }
+0000652.png	\mathrm d f ( x )
+0000653.png	S ( A ) = A ^ { \prime }
+0000654.png	a _ { 1 } ^ { L } x _ { 1 } + a _ { 2 } ^ { L } x _ { 2 } = L
+0000655.png	a _ { n } ( f , S )
+0000656.png	F _ { n } ( x ) = \frac 1 { n + 1 } x ^ { n } + C s t e
+0000657.png	( k _ { 2 } , l _ { 2 } )
+0000658.png	d ( u , v ) = \sum _ { n = 0 } ^ { \infty } 2 ^ { - n } \frac { p _ { n } ( v - u ) } { 1 + p _ { n } ( v - u ) }
+0000659.png	P ( v _ { y } ^ { 2 } )
+0000660.png	V = C \sqrt { { R S } }
+0000661.png	G , H
+0000662.png	T x _ { n }
+0000663.png	R _ { 1 } \gt 0
+0000664.png	s p _ { t }
+0000665.png	B = ( 2 q + 1 ) f ( x _ { n } ) - ( 1 + q ) ^ { 2 } f ( x _ { n - 1 } ) + q ^ { 2 } f ( x _ { n - 2 } )
+0000666.png	r _ { 2 } - r _ { 1 } = R
+0000667.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000668.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000669.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000670.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000671.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000672.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000673.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000674.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000675.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000676.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000677.png	| x - \frac { p _ { n } } { q _ { n } } | \leq \frac { 1 } { q _ { n } q _ { n + 1 } } \lt \frac { 1 } { q _ { n } ^ { 2 } }
+0000678.png	n ! - 1
+0000679.png	n ! - 1
+0000680.png	n ! - 1
+0000681.png	n ! - 1
+0000682.png	n ! - 1
+0000683.png	2 + 2 ^ { 4 - \frac { k } { 2 } } + o ( 1 )
+0000684.png	R _ { A } = \frac { P b } { L }
+0000685.png	\frac { 8 \pi r } { q ( r ) }
+0000686.png	\left| q \right| \gt 1
+0000687.png	S _ { n } = 1 2 S _ { n - 1 } - 1 8 S _ { n - 2 }
+0000688.png	I ( t ) = I \sqrt { 2 } \cos { ( w t + \phi ) }
+0000689.png	A = n R ^ { 2 } \cos \left( \frac { \alpha } { 2 } \right) \sin \left( \frac { \alpha } { 2 } \right)
+0000690.png	d x ^ { \mu }
+0000691.png	s _ { i } ^ { 2 } = 1
+0000692.png	u _ { 1 } , u _ { 2 } , \ldots , u _ { N }
+0000693.png	P = ( V c e . I c + V b e . I b ) . R C
+0000694.png	t = \frac { v \sin \theta } { g } \pm \frac { \sqrt { \left( v \sin \theta \right) ^ { 2 } + 2 g y _ { 0 } } } { g }
+0000695.png	L i ( x ) \lt \pi ( x )
+0000696.png	x ( k , L )
+0000697.png	\phi ( w ) = u _ { 1 } ^ { T } w
+0000698.png	\mathrm { V a r } [ X _ { i } ] = \frac { \alpha _ { i } ( \alpha _ { 0 } - \alpha _ { i } ) } { \alpha _ { 0 } ^ { 2 } ( \alpha _ { 0 } + 1 ) }
+0000699.png	H _ { n } / T
+0000700.png	C _ { S } = R ( b , a )
+0000701.png	T _ { f , x }
+0000702.png	\frac { \mathrm d } { \mathrm d t }
+0000703.png	E _ { p } = \frac { 1 } { 2 } k x ^ { 2 } - F x
+0000704.png	\int _ { a } ^ { b } X _ { t } \mathrm d B _ { t }
+0000705.png	L ( S ) = \sum _ { i = 1 } ^ { n } d \left( f ( a _ { i - 1 } ) , f ( a _ { i } ) \right)
+0000706.png	L ^ { 2 } \left( I , R , \mu \right)
+0000707.png	v , u _ { 1 } , u _ { 2 }
+0000708.png	2 S + 1
+0000709.png	g ( \theta ) = G ( \theta ) - G
+0000710.png	S = \frac 1 { \frac { 1 } { P } - \frac { 1 } { E } }
+0000711.png	g ^ { \prime } ( b ) = \frac { 1 } { b }
+0000712.png	n ! - 1
+0000713.png	n ! - 1
+0000714.png	n ! - 1
+0000715.png	n ! - 1
+0000716.png	n ! - 1
+0000717.png	n ! - 1
+0000718.png	n ! - 1
+0000719.png	n ! - 1
+0000720.png	n ! - 1
+0000721.png	n ! - 1
+0000722.png	n ! - 1
+0000723.png	n ! - 1
+0000724.png	\sigma \in [ \sigma _ { 1 } , \sigma _ { 2 } ]
+0000725.png	E \rightarrow E / F
+0000726.png	r = \frac { | P _ { 1 } - P _ { 3 } | } { 2 \sin ( \theta ) }
+0000727.png	| | x + y | | ^ { 2 } = | | x | | ^ { 2 } + | | y | | ^ { 2 }
+0000728.png	g _ { v v }
+0000729.png	P ( E )
+0000730.png	\left\{ H , A \right\}
+0000731.png	M ( R )
+0000732.png	t w ( G )
+0000733.png	T N = \frac { n } { p } . { 1 0 0 0 }
+0000734.png	2 ^ { \frac { N } { 2 } }
+0000735.png	( S , T )
+0000736.png	q _ { i } p _ { j }
+0000737.png	d \times ( - d ^ { \prime } ) = ( - d d ^ { \prime } )
+0000738.png	v ( x )
+0000739.png	\frac { V _ { t } s } { V _ { m } }
+0000740.png	y ^ { \prime } = f ( x ) g ( y )
+0000741.png	T _ { \mathrm { m o y } } = 1 0
+0000742.png	\frac { 1 } { p ^ { \prime } } - \frac { 1 } { p } - C = 0
+0000743.png	E ^ { \prime } = E - F G
+0000744.png	E = d g
+0000745.png	f ( v , t ) = w
+0000746.png	d \in E I C
+0000747.png	0 + 0 = T o t o
+0000748.png	f _ { 2 } ( M ) = 0
+0000749.png	N s y n
+0000750.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000751.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000752.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000753.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000754.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000755.png	\sqrt [ 3 ] a
+0000756.png	\sum _ { i = 0 } ^ { 1 0 } x _ { i }
+0000757.png	\sqrt [ x ] y
+0000758.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000759.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000760.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000761.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000762.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000763.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000764.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000765.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000766.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000767.png	1 + 2 + \cdots + n = \frac { n ( n + 1 ) } { 2 }
+0000768.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000769.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000770.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000771.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000772.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000773.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000774.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000775.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000776.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000777.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000778.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000779.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000780.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000781.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000782.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000783.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000784.png	\frac { 1 } { 4 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 2 } + \Bigg ( \frac { 1 } { 4 } \Bigg ) ^ { 3 } + \cdots = \frac { 1 } { 3 }
+0000785.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000786.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000787.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000788.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000789.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000790.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000791.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000792.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000793.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000794.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000795.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000796.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000797.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000798.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000799.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000800.png	f ( x ) = a _ { n } x ^ { n } + a _ { n - 1 } x ^ { n - 1 } + \cdots + a _ { 1 } x + a _ { 0 }
+0000801.png	x _ { k } x x _ { k } + y _ { k } y x _ { k }
+0000802.png	\sqrt { 4 8 }
+0000803.png	2 6
+0000804.png	q _ { t } = 2 q
+0000805.png	\frac { p e ^ { t } } { 1 - ( 1 - p ) e ^ { t } } \!
+0000806.png	4 ^ { 2 } + 4 ^ { 2 } + \frac { 4 } { 4 }
+0000807.png	\frac { d y } { d x } = \frac { 1 } { \frac { d x } { d y } }
+0000808.png	k = 1 0 0 0 0 0 0 0 0 0
+0000809.png	m \geq 2
+0000810.png	u ( t ) = \frac { u ( 0 ) } { 1 - t u ( 0 ) }
+0000811.png	\theta _ { 3 } = \theta _ { 1 } + \theta _ { 2 }
+0000812.png	y \neq x
+0000813.png	C _ { 1 } y _ { 1 } ^ { ( n - 1 ) } + C _ { 2 } y _ { 2 } ^ { ( n - 1 ) } + \ldots + C _ { n } y _ { n } ^ { ( n - 1 ) } = 0
+0000814.png	\frac 1 p + \frac 1 q = 1 \!
+0000815.png	1 0 1 1 \ 1 1 1 0 \ 1 1 1 0 \ 0 1 0 1 _ { 2 }
+0000816.png	p _ { 1 } ^ { \gamma _ { 1 } } p _ { 2 } ^ { \gamma _ { 2 } } \cdots p _ { n } ^ { \gamma _ { n } }
+0000817.png	\frac { 1 8 \div 6 } { 2 4 \div 6 } = \frac { 3 } { 4 }
+0000818.png	\frac { 7 5 2 9 5 3 6 } { 1 5 6 2 5 }
+0000819.png	q _ { 1 } , q _ { 2 } , \ldots , q _ { m }
+0000820.png	e ^ { - n } \!
+0000821.png	\int g = \operatorname* { l i m } _ { n \rightarrow \infty } \int g _ { n } \!
+0000822.png	g ( b ) - g ( a ) = b - a
+0000823.png	\sin ^ { 2 } \theta
+0000824.png	x _ { L L L } \leq x _ { L L }
+0000825.png	\frac { a } { b + \sqrt { c } }
+0000826.png	\sin ^ { 2 } ( x ) + \cos ^ { 2 } ( x ) = 1
+0000827.png	4 4
+0000828.png	\left[ 1 \right]
+0000829.png	\mathrm { ~ n ~ }
+0000830.png	\left( \mathrm { ~ d ~ } \right)
+0000831.png	\mathrm { ~ y ~ }
+0000832.png	\mathrm { ~ j ~ }
+0000833.png	{ - { \mathrm { ~ l ~ } \mathrm { ~ T ~ } } }
+0000834.png	{ { - F } - { F } ^ { x } }
+0000835.png	\frac { 9 4 . 7 } { { \mathrm { ~ Y ~ } h } }
+0000836.png	\mathrm { ~ E ~ }
+0000837.png	\int _ { 0 } ^ { \pi } \cos \left( \frac { \theta } { 2 } \right) d \theta
+0000838.png	R
+0000839.png	\mathrm { ~ t S ~ }
+0000840.png	{ \left( { \mathrm { ~ B ~ } } _ { \mathrm { ~ E ~ } } \right) } ^ { \mathrm { ~ j ~ } }
+0000841.png	{ \mathrm { ~ i ~ } } _ { { e } _ { \mathrm { ~ V ~ } } }
+0000842.png	\sqrt { 1 + \sqrt { 1 + z ^ { 2 } } }
+0000843.png	{ \mathrm { ~ S i A ~ } } _ { \sigma }
+0000844.png	{ - \int _ { z } ^ { j } n d X }
+0000845.png	{ \mathrm { ~ j ~ } \lt \lambda \left( n \right) }
+0000846.png	\mathrm { ~ I ~ }
+0000847.png	\frac { { R + \mathrm { ~ i ~ } } } { \left[ j \right] }
+0000848.png	\tan \mathrm { ~ h ~ }
+0000849.png	a + \sqrt { \frac { b + c } { d + f } }
+0000850.png	\mathrm { ~ l ~ } \left( \mathrm { ~ h ~ } \right)
+0000851.png	\mathrm { ~ g ~ }
+0000852.png	{ - \mathrm { ~ S ~ } }
+0000853.png	{ { - { \mathrm { ~ E ~ } } _ { \mathrm { ~ q ~ } } } - { \cdots + { \mathrm { ~ P ~ } \mathrm { ~ E ~ } } } }
+0000854.png	3 . 2
+0000855.png	{ \mathrm { ~ k ~ } } _ { \mathrm { ~ I ~ } }
+0000856.png	\mu
+0000857.png	{ \mathrm { ~ X ~ } t }
+0000858.png	i
+0000859.png	{ B } ^ { { \mathrm { ~ B ~ } + 4 } }
+0000860.png	\left[ \sum { \mathrm { ~ x ~ } } \right]
+0000861.png	\mathrm { ~ e j ~ }
+0000862.png	3 1
+0000863.png	{ - { 1 7 } }
+0000864.png	{ \mathrm { ~ u ~ } } _ { \mathrm { ~ A ~ } }
+0000865.png	\int { \mathrm { ~ s ~ } } _ { \sigma } d z
+0000866.png	\mathrm { ~ t g ~ }
+0000867.png	\log 5
+0000868.png	{ { - \sum { \mathrm { ~ h ~ } } } + { x 8 . 8 } }
+0000869.png	\sqrt { { \sin \mu + \mathrm { ~ o ~ } } }
+0000870.png	\left[ 6 \right]
+0000871.png	V
+0000872.png	{ \mathrm { ~ h ~ } + { v i } }
+0000873.png	9
+0000874.png	\frac { \mathrm { ~ d ~ } } { { \mathrm { ~ r ~ } } ^ { X } }
+0000875.png	q
+0000876.png	a ^ { x } + b ^ { x } + \frac { c } { 2 }
+0000877.png	{ X - f }
+0000878.png	{ - \mathrm { ~ t ~ } }
+0000879.png	0 2
+0000880.png	\mathrm { ~ a c ~ }
+0000881.png	x ^ { 2 } + y ^ { 2 } = z ^ { 2 }
+0000882.png	{ - \left[ \sqrt { \mathrm { ~ u ~ } } \right] }
+0000883.png	{ { \mathrm { ~ z ~ } } ^ { \Delta } \mu }
+0000884.png	4 8 6 2
+0000885.png	{ { y - 7 } \geq 2 }
+0000886.png	{ - { \mathrm { ~ H ~ } { \sqrt { { \mathrm { ~ g ~ } - \left( g \right) } } } ^ { P } } }
+0000887.png	{ 1 + \mathrm { ~ L ~ } }
+0000888.png	\sqrt { \sqrt { y } }
+0000889.png	\int e ^ { x ^ { 2 } } x ^ { 3 } d x
+0000890.png	\mathrm { ~ h ~ }
+0000891.png	7 7
+0000892.png	\sum { \mathrm { ~ n ~ } }
+0000893.png	\frac { i } { \mathrm { ~ a ~ } }
+0000894.png	{ t } _ { \mathrm { ~ X ~ } }
+0000895.png	Y
+0000896.png	{ { \mathrm { ~ e ~ } } _ { \mathrm { ~ G ~ } } } ^ { \sum { h } }
+0000897.png	0
+0000898.png	{ \sum { j } - \mathrm { ~ f ~ } }
+0000899.png	8 . 6
+0000900.png	\left( S \right)
+0000901.png	{ 2 . 9 g }
+0000902.png	i
+0000903.png	\mathrm { ~ R ~ }
+0000904.png	{ \mathrm { ~ s ~ } + \left( i \right) }
+0000905.png	L
+0000906.png	\mathrm { ~ j ~ }
+0000907.png	{ \mathrm { ~ u ~ } + { \mathrm { ~ u ~ } - V } }
+0000908.png	7 . 5
+0000909.png	\left( \mathrm { ~ L ~ } \right)
+0000910.png	3 . 1
+0000911.png	\sum _ { { \mathrm { ~ H ~ } = s } } ^ { n } { 4 5 }
+0000912.png	5 . 9
+0000913.png	{ \mathrm { ~ w a ~ } \leq \sum { \mathrm { ~ S ~ } } }
+0000914.png	\frac { \mathrm { ~ s ~ } } { \int 9 d N }
+0000915.png	\int e ^ { - z ^ { 2 } } d z = \mathrm { ~ e r f ~ } \left( z \right)
+0000916.png	a + \frac { \sqrt { b + c } } { 2 }
+0000917.png	{ \mathrm { ~ V ~ } j }
+0000918.png	\frac { - b + \sqrt { b ^ { 2 } - 4 a c } } { 2 a }
+0000919.png	a x ^ { 4 } + b x + c = 0
+0000920.png	\sqrt { { \mathrm { ~ z ~ } + \mathrm { ~ V ~ } } }
+0000921.png	{ T + { q \int S d x } }
+0000922.png	1 3 + \pi r ^ { 2 }
+0000923.png	\frac { 4 } { 3 } \pi r ^ { 3 }
+0000924.png	{ - \sum { \mathrm { ~ G ~ } } }
+0000925.png	7 2
+0000926.png	{ \mathrm { ~ e ~ } - { \mathrm { ~ N ~ } } _ { \mathrm { ~ L ~ } } }
+0000927.png	\frac { 1 } { 3 } \pi r ^ { 2 } h
+0000928.png	\frac { \pi r ^ { 2 } h } { 3 }
+0000929.png	\sin \left( \frac { \pi } { 4 } \right) = \frac { 1 } { \sqrt { 2 } }
+0000930.png	{ { \mathrm { ~ x ~ } + C } \gt \mathrm { ~ C ~ } }
+0000931.png	\sum _ { { b \gt p } } { { y - \mathrm { ~ Y ~ } } }
+0000932.png	{ a } _ { \mathrm { ~ f ~ } }
+0000933.png	\sin \left( \frac { \pi } { 3 } \right) = \frac { 1 } { 2 }
+0000934.png	{ { - I } - { w - \mathrm { ~ n ~ } } }
+0000935.png	{ - \sum _ { { 5 \gt \mathrm { ~ d ~ } } } { \mathrm { ~ x ~ } } }
+0000936.png	{ - { j } _ { { y } _ { \mathrm { ~ b ~ } } } }
+0000937.png	\log _ { 2 } \left( 2 ^ { 5 } \right) = 5
+0000938.png	\frac { 1 } { \sin \left( x \right) + 1 }
+0000939.png	2 \alpha + 3 \sqrt { \beta }
+0000940.png	{ 8 - { \cdots - \left( \mathrm { ~ E ~ } \right) } }
+0000941.png	\int { - { \mathrm { ~ i ~ } \phi } } d I
+0000942.png	\sum _ { n = 1 } ^ { N } \left( - 1 \right) ^ { n } \sin \left( n x \right)
+0000943.png	\frac { \beta + \gamma } { \theta }
+0000944.png	k ^ { 3 } + 1 4 k ^ { 2 } - 1 3 2 k + 1 7 8 9
+0000945.png	{ - \mathrm { ~ r ~ } }
+0000946.png	2 . 9
+0000947.png	\int _ { \sum { j } } ^ { { - \mathrm { ~ p ~ } } } { \mathrm { ~ w ~ } \mathrm { ~ x ~ } } d \alpha
+0000948.png	\sum _ { m } f \left( m + 3 \right)
+0000949.png	\mathrm { ~ X ~ }
+0000950.png	\mathrm { ~ i R ~ }
+0000951.png	\sqrt { 1 + \sqrt { 1 + \sqrt { 1 + \sqrt { x } } } }
+0000952.png	a ^ { b ^ { c ^ { d } } }
+0000953.png	e _ { f _ { g _ { h } } }
+0000954.png	\mathrm { ~ j ~ }
+0000955.png	\frac { x _ { 1 } } { \frac { x _ { 2 } } { \frac { x _ { 3 } } { x _ { 4 } } } }
+0000956.png	\frac { \frac { \frac { x _ { 4 } } { x _ { 3 } } } { x _ { 2 } } } { x _ { 1 } }
+0000957.png	e ^ { \int x ^ { 2 } d x }
+0000958.png	{ \mathrm { ~ N Y ~ } } _ { \mathrm { ~ I ~ } }
+0000959.png	\frac { x } { a + \frac { x } { b - \frac { x } { c } } }
+0000960.png	n
+0000961.png	c
+0000962.png	p
+0000963.png	{ k } ^ { \mathrm { ~ X ~ } }
+0000964.png	2 0
+0000965.png	{ - u }
+0000966.png	{ { - \sum { u } } + \mathrm { ~ A ~ } }
+0000967.png	\cos \frac { 7 } { { h } ^ { F } }
+0000968.png	{ l - { M \mathrm { ~ i ~ } } }
+0000969.png	9 . 3
+0000970.png	\sum { \mathrm { ~ w ~ } }
+0000971.png	\mathrm { ~ t Y ~ }
+0000972.png	{ y } ^ { M }
+0000973.png	9 . 5
+0000974.png	\left( M \right)
+0000975.png	{ \mathrm { ~ d ~ } = \sqrt { \mathrm { ~ x ~ } } }
+0000976.png	\sum _ { { T \geq g } } { 8 . 2 }
+0000977.png	\sigma
+0000978.png	{ \mathrm { ~ b ~ } } ^ { 7 }
+0000979.png	\left( 6 \right)
+0000980.png	\sqrt { f }
+0000981.png	\mathrm { ~ i ~ }
+0000982.png	{ \mathrm { ~ F ~ } - \sum { P } }
+0000983.png	6 . 7
+0000984.png	{ - \sum { l } }
+0000985.png	\frac { { \mathrm { ~ R ~ } \beta } } { \mathrm { ~ u ~ } }
+0000986.png	\frac { b } { \sum { \mathrm { ~ N ~ } } }
+0000987.png	{ \mathrm { ~ F ~ } } _ { \mathrm { ~ C ~ } }
+0000988.png	\int _ { { z o } } ^ { n } { \mathrm { ~ p ~ } - B } d d
+0000989.png	{ y \leq \sum { \mathrm { ~ j ~ } } }
+0000990.png	\sum _ { { \Delta \geq \sum { \mathrm { ~ H ~ } } } } { { \cdots + \int \frac { H } { b } d T } }
+0000991.png	{ Y - \mathrm { ~ P ~ } }
+0000992.png	\left( 5 \right)
+0000993.png	\int { \mathrm { ~ S ~ } } ^ { \mathrm { ~ t ~ } } d C
+0000994.png	\mathrm { ~ b ~ }
+0000995.png	{ \cdots - \sum { j } }
+0000996.png	X
+0000997.png	{ 1 \mathrm { ~ u ~ } }
+0000998.png	\cos I
+0000999.png	m
+0001000.png    	\cos(\alpha)
+0001001.png	(e^{-x})' = -e^{-x}
+0001002.png	\log_{2}{64} = 6
+0001003.png	y = ax^2 + bx + c
+0001004.png	\tan(x)
+
