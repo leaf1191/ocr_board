@@ -35,10 +35,11 @@ def remove_noise(image):
     return image
 
 def process_image(image):
-    image = get_binary_image(image)
+    if isinstance(image, Image.Image):
+        cv_image = pil_to_cv(image)
+    else:
+        cv_image = image
+    
+    image = get_binary_image(cv_image)
     image = remove_noise(image)
-    #image = apply_dilation(image)
-    #image = apply_morphology(image)
-    #image = skeletonize_skimage(image)
-    #image = apply_dilation(image)
     return image

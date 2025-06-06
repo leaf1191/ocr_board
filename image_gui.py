@@ -139,8 +139,17 @@ class ImageGUI:
     def process_image(self):
         if hasattr(self, 'image'):
             try:
-                self.latex_code = self.ocr_model(self.image)
-                tensor = self.transform(self.image.convert("L")).unsqueeze(0).to(self.device)
+                # 이미지 전처리(자체 로직)
+                processed_img = process_image(self.image)
+                processed_img = cv_to_pil(processed_img)
+                # 화면 갱신
+                processed_img.thumbnail((400, 300))
+                self.photo = ImageTk.PhotoImage(processed_img)
+                self.image_label.config(image=self.photo)
+                self.image_label.image = self.photo
+
+                self.latex_code = self.ocr_model(processed_img)
+                tensor = self.transform(processed_img.convert("L")).unsqueeze(0).to(self.device)
                 with torch.no_grad():
                     output = self.model(tensor)
                     idx = output.argmax(1).item()
@@ -152,7 +161,7 @@ class ImageGUI:
 
                 # 자동 Notion 전송
                 content = f"[정제코드 전체 수식 예측]\n{self.latex_code}\n\n[ocr_board 분류 수식]\n{self.label}\n[분류 카테고리]\n{self.category}"
-                append_to_notion_page(content, NOTION_TOKEN, NOTION_PAGE_ID)
+                #append_to_notion_page(content, NOTION_TOKEN, NOTION_PAGE_ID)
 
             except Exception as e:
                 messagebox.showerror("Error", str(e).encode("utf-8", errors="replace").decode("utf-8"))
