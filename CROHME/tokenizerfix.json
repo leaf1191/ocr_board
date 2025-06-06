@@ -1,0 +1,803 @@
+{
+  "version": "1.0",
+  "truncation": null,
+  "padding": null,
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "[PAD]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "[BOS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "[EOS]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "[UNK]",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": {
+    "type": "Sequence",
+    "normalizers": [
+      {
+        "type": "NFD"
+      },
+      {
+        "type": "StripAccents"
+      }
+    ]
+  },
+  "pre_tokenizer": {
+    "type": "Whitespace"
+  },
+  "post_processor": {
+    "type": "TemplateProcessing",
+    "single": [
+      {
+        "SpecialToken": {
+          "id": "[BOS]",
+          "type_id": 0
+        }
+      },
+      {
+        "Sequence": {
+          "id": "A",
+          "type_id": 0
+        }
+      },
+      {
+        "SpecialToken": {
+          "id": "[EOS]",
+          "type_id": 0
+        }
+      }
+    ],
+    "pair": [
+      {
+        "SpecialToken": {
+          "id": "[BOS]",
+          "type_id": 0
+        }
+      },
+      {
+        "Sequence": {
+          "id": "A",
+          "type_id": 0
+        }
+      },
+      {
+        "SpecialToken": {
+          "id": "[EOS]",
+          "type_id": 0
+        }
+      },
+      {
+        "Sequence": {
+          "id": "B",
+          "type_id": 1
+        }
+      },
+      {
+        "SpecialToken": {
+          "id": "[EOS]",
+          "type_id": 1
+        }
+      }
+    ],
+    "special_tokens": {
+      "[BOS]": {
+        "id": "[BOS]",
+        "ids": [
+          1
+        ],
+        "tokens": [
+          "[BOS]"
+        ]
+      },
+      "[EOS]": {
+        "id": "[EOS]",
+        "ids": [
+          2
+        ],
+        "tokens": [
+          "[EOS]"
+        ]
+      }
+    }
+  },
+  "decoder": {
+    "type": "ByteLevel",
+    "add_prefix_space": true,
+    "trim_offsets": true,
+    "use_regex": true
+  },
+  "model": {
+    "type": "BPE",
+    "dropout": null,
+    "unk_token": "[UNK]",
+    "continuing_subword_prefix": null,
+    "end_of_word_suffix": null,
+    "fuse_unk": false,
+    "byte_fallback": false,
+    "ignore_merges": false,
+    "vocab": {
+      "[PAD]": 0,
+      "[BOS]": 1,
+      "[EOS]": 2,
+      "[UNK]": 3,
+      "!": 4,
+      "'": 5,
+      "(": 6,
+      ")": 7,
+      "*": 8,
+      "+": 9,
+      ",": 10,
+      "-": 11,
+      ".": 12,
+      "/": 13,
+      "0": 14,
+      "1": 15,
+      "2": 16,
+      "3": 17,
+      "4": 18,
+      "5": 19,
+      "6": 20,
+      "7": 21,
+      "8": 22,
+      "9": 23,
+      "<": 24,
+      "=": 25,
+      ">": 26,
+      "A": 27,
+      "B": 28,
+      "C": 29,
+      "D": 30,
+      "E": 31,
+      "F": 32,
+      "G": 33,
+      "H": 34,
+      "I": 35,
+      "L": 36,
+      "M": 37,
+      "N": 38,
+      "P": 39,
+      "R": 40,
+      "S": 41,
+      "T": 42,
+      "V": 43,
+      "X": 44,
+      "Y": 45,
+      "[": 46,
+      "\\": 47,
+      "]": 48,
+      "^": 49,
+      "_": 50,
+      "a": 51,
+      "b": 52,
+      "c": 53,
+      "d": 54,
+      "e": 55,
+      "f": 56,
+      "g": 57,
+      "h": 58,
+      "i": 59,
+      "j": 60,
+      "k": 61,
+      "l": 62,
+      "m": 63,
+      "n": 64,
+      "o": 65,
+      "p": 66,
+      "q": 67,
+      "r": 68,
+      "s": 69,
+      "t": 70,
+      "u": 71,
+      "v": 72,
+      "w": 73,
+      "x": 74,
+      "y": 75,
+      "z": 76,
+      "{": 77,
+      "|": 78,
+      "}": 79,
+      "~": 80,
+      "ra": 81,
+      "fra": 82,
+      "frac": 83,
+      "ig": 84,
+      "th": 85,
+      "ma": 86,
+      "Big": 87,
+      "qr": 88,
+      "sqr": 89,
+      "sqrt": 90,
+      "rm": 91,
+      "thrm": 92,
+      "mathrm": 93,
+      "Bigg": 94,
+      "in": 95,
+      "su": 96,
+      "sum": 97,
+      "ta": 98,
+      "pi": 99,
+      "ts": 100,
+      "le": 101,
+      "me": 102,
+      "do": 103,
+      "dots": 104,
+      "ime": 105,
+      "ft": 106,
+      "rig": 107,
+      "righ": 108,
+      "cdots": 109,
+      "left": 110,
+      "right": 111,
+      "eta": 112,
+      "pr": 113,
+      "prime": 114,
+      "theta": 115,
+      "ph": 116,
+      "sin": 117,
+      "pm": 118,
+      "al": 119,
+      "pha": 120,
+      "alpha": 121,
+      "time": 122,
+      "times": 123,
+      "co": 124,
+      "lt": 125,
+      "cos": 126,
+      "int": 127,
+      "leq": 128,
+      "De": 129,
+      "lta": 130,
+      "Delta": 131,
+      "ldots": 132,
+      "mu": 133,
+      "sig": 134,
+      "sigma": 135,
+      "am": 136,
+      "gam": 137,
+      "gamma": 138,
+      "gt": 139,
+      "fo": 140,
+      "ll": 141,
+      "rall": 142,
+      "inft": 143,
+      "forall": 144,
+      "infty": 145,
+      "eq": 146,
+      "\\{": 147,
+      "\\}": 148,
+      "beta": 149,
+      "geq": 150,
+      "lo": 151,
+      "ow": 152,
+      "rr": 153,
+      "tarr": 154,
+      "rightarr": 155,
+      "log": 156,
+      "rightarrow": 157,
+      "phi": 158,
+      "\\!": 159,
+      "ame": 160,
+      "era": 161,
+      "name": 162,
+      "op": 163,
+      "or": 164,
+      "tor": 165,
+      "tan": 166,
+      "erator": 167,
+      "operator": 168,
+      "operatorname": 169,
+      "ex": 170,
+      "is": 171,
+      "neq": 172,
+      "exis": 173,
+      "exists": 174,
+      "^{": 175,
+      "di": 176,
+      "^{-": 177,
+      "div": 178,
+      "(\\": 179,
+      ")'": 180,
+      "64": 181,
+      "ax": 182,
+      "bd": 183,
+      "bx": 184,
+      "lam": 185,
+      "}{": 186,
+      "})'": 187,
+      "ltl": 188,
+      "ltq": 189,
+      "gtM": 190,
+      "gtp": 191,
+      "log_": 192,
+      "bda": 193,
+      "lambda": 194
+    },
+    "merges": [
+      [
+        "r",
+        "a"
+      ],
+      [
+        "f",
+        "ra"
+      ],
+      [
+        "fra",
+        "c"
+      ],
+      [
+        "i",
+        "g"
+      ],
+      [
+        "t",
+        "h"
+      ],
+      [
+        "m",
+        "a"
+      ],
+      [
+        "B",
+        "ig"
+      ],
+      [
+        "q",
+        "r"
+      ],
+      [
+        "s",
+        "qr"
+      ],
+      [
+        "sqr",
+        "t"
+      ],
+      [
+        "r",
+        "m"
+      ],
+      [
+        "th",
+        "rm"
+      ],
+      [
+        "ma",
+        "thrm"
+      ],
+      [
+        "Big",
+        "g"
+      ],
+      [
+        "i",
+        "n"
+      ],
+      [
+        "s",
+        "u"
+      ],
+      [
+        "su",
+        "m"
+      ],
+      [
+        "t",
+        "a"
+      ],
+      [
+        "p",
+        "i"
+      ],
+      [
+        "t",
+        "s"
+      ],
+      [
+        "l",
+        "e"
+      ],
+      [
+        "m",
+        "e"
+      ],
+      [
+        "d",
+        "o"
+      ],
+      [
+        "do",
+        "ts"
+      ],
+      [
+        "i",
+        "me"
+      ],
+      [
+        "f",
+        "t"
+      ],
+      [
+        "r",
+        "ig"
+      ],
+      [
+        "rig",
+        "h"
+      ],
+      [
+        "c",
+        "dots"
+      ],
+      [
+        "le",
+        "ft"
+      ],
+      [
+        "righ",
+        "t"
+      ],
+      [
+        "e",
+        "ta"
+      ],
+      [
+        "p",
+        "r"
+      ],
+      [
+        "pr",
+        "ime"
+      ],
+      [
+        "th",
+        "eta"
+      ],
+      [
+        "p",
+        "h"
+      ],
+      [
+        "s",
+        "in"
+      ],
+      [
+        "p",
+        "m"
+      ],
+      [
+        "a",
+        "l"
+      ],
+      [
+        "ph",
+        "a"
+      ],
+      [
+        "al",
+        "pha"
+      ],
+      [
+        "t",
+        "ime"
+      ],
+      [
+        "time",
+        "s"
+      ],
+      [
+        "c",
+        "o"
+      ],
+      [
+        "l",
+        "t"
+      ],
+      [
+        "co",
+        "s"
+      ],
+      [
+        "in",
+        "t"
+      ],
+      [
+        "le",
+        "q"
+      ],
+      [
+        "D",
+        "e"
+      ],
+      [
+        "l",
+        "ta"
+      ],
+      [
+        "De",
+        "lta"
+      ],
+      [
+        "l",
+        "dots"
+      ],
+      [
+        "m",
+        "u"
+      ],
+      [
+        "s",
+        "ig"
+      ],
+      [
+        "sig",
+        "ma"
+      ],
+      [
+        "a",
+        "m"
+      ],
+      [
+        "g",
+        "am"
+      ],
+      [
+        "gam",
+        "ma"
+      ],
+      [
+        "g",
+        "t"
+      ],
+      [
+        "f",
+        "o"
+      ],
+      [
+        "l",
+        "l"
+      ],
+      [
+        "ra",
+        "ll"
+      ],
+      [
+        "in",
+        "ft"
+      ],
+      [
+        "fo",
+        "rall"
+      ],
+      [
+        "inft",
+        "y"
+      ],
+      [
+        "e",
+        "q"
+      ],
+      [
+        "\\",
+        "{"
+      ],
+      [
+        "\\",
+        "}"
+      ],
+      [
+        "b",
+        "eta"
+      ],
+      [
+        "g",
+        "eq"
+      ],
+      [
+        "l",
+        "o"
+      ],
+      [
+        "o",
+        "w"
+      ],
+      [
+        "r",
+        "r"
+      ],
+      [
+        "ta",
+        "rr"
+      ],
+      [
+        "righ",
+        "tarr"
+      ],
+      [
+        "lo",
+        "g"
+      ],
+      [
+        "rightarr",
+        "ow"
+      ],
+      [
+        "ph",
+        "i"
+      ],
+      [
+        "\\",
+        "!"
+      ],
+      [
+        "a",
+        "me"
+      ],
+      [
+        "e",
+        "ra"
+      ],
+      [
+        "n",
+        "ame"
+      ],
+      [
+        "o",
+        "p"
+      ],
+      [
+        "o",
+        "r"
+      ],
+      [
+        "t",
+        "or"
+      ],
+      [
+        "ta",
+        "n"
+      ],
+      [
+        "era",
+        "tor"
+      ],
+      [
+        "op",
+        "erator"
+      ],
+      [
+        "operator",
+        "name"
+      ],
+      [
+        "e",
+        "x"
+      ],
+      [
+        "i",
+        "s"
+      ],
+      [
+        "n",
+        "eq"
+      ],
+      [
+        "ex",
+        "is"
+      ],
+      [
+        "exis",
+        "ts"
+      ],
+      [
+        "^",
+        "{"
+      ],
+      [
+        "d",
+        "i"
+      ],
+      [
+        "^{",
+        "-"
+      ],
+      [
+        "di",
+        "v"
+      ],
+      [
+        "(",
+        "\\"
+      ],
+      [
+        ")",
+        "'"
+      ],
+      [
+        "6",
+        "4"
+      ],
+      [
+        "a",
+        "x"
+      ],
+      [
+        "b",
+        "d"
+      ],
+      [
+        "b",
+        "x"
+      ],
+      [
+        "l",
+        "am"
+      ],
+      [
+        "}",
+        "{"
+      ],
+      [
+        "}",
+        ")'"
+      ],
+      [
+        "lt",
+        "l"
+      ],
+      [
+        "lt",
+        "q"
+      ],
+      [
+        "gt",
+        "M"
+      ],
+      [
+        "gt",
+        "p"
+      ],
+      [
+        "log",
+        "_"
+      ],
+      [
+        "bd",
+        "a"
+      ],
+      [
+        "lam",
+        "bda"
+      ]
+    ]
+  }
+}
