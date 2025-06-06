@@ -216,10 +216,3 @@ class ImageGUI:
         canvas.bind("<ButtonPress-1>", on_mouse_down)
         canvas.bind("<B1-Motion>", on_mouse_drag)
         canvas.bind("<ButtonRelease-1>", on_mouse_up)
-
-
-if __name__ == '__main__':
-    root = tk.Tk()
-    app = ImageGUI(root)
-    print("🟢 Alt+S 눌러서 스크린샷 찍고 자동 분석하세요")
-    root.mainloop()
