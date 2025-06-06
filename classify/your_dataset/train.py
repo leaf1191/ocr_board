@@ -33,7 +33,7 @@ criterion = nn.CrossEntropyLoss()
 optimizer = optim.Adam(model.parameters(), lr=0.001)
 
 # 학습 루프
-epochs = 30
+epochs = 10
 for epoch in range(epochs):
     model.train()
     total_loss = 0
@@ -57,4 +57,4 @@ for epoch in range(epochs):
     print(f'Epoch {epoch+1}/{epochs}, Loss: {total_loss:.4f}, Accuracy: {correct/total:.4f}')
 
 # 학습 끝난 뒤 저장
-torch.save(model.state_dict(), 'saved_model5.pth')
+torch.save(model.state_dict(), 'saved_model9.pth')

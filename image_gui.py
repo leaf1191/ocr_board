@@ -86,7 +86,7 @@ class ImageGUI:
         self.ocr_model = LatexOCR()
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
         self.model, self.id2label, self.id2category = load_model(
-            "classify/your_dataset/saved_model5.pth",
+            "classify/your_dataset/saved_model9.pth",
             "classify/your_dataset/label_map.txt",
             self.device
         )

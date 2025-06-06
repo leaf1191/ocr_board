@@ -25,3 +25,8 @@
 0025.jpg	\left( \frac{a+b}{c} \right)^2
 0026.jpg	\sin^2{x} + \cos^2{x} = 1
 0027.jpg	\log{x}
+0028.jpg	\cos(\alpha)
+0029.jpg	\left(e^{-x}\right)' = -e^{-x}
+0030.jpg	\log_{2}{64} = 6
+0031.jpg	y = ax^2 + bx + c
+0032.jpg	\tan(x)

@@ -295,3 +295,58 @@
 0295.png	\log{x}
 0296.png	\log{x}
 0297.png	\log{x}
+0298.png	\cos(\alpha)
+0299.png	\cos(\alpha)
+0300.png	\cos(\alpha)
+0301.png	\cos(\alpha)
+0302.png	\cos(\alpha)
+0303.png	\cos(\alpha)
+0304.png	\cos(\alpha)
+0305.png	\cos(\alpha)
+0306.png	\cos(\alpha)
+0307.png	\cos(\alpha)
+0308.png	\cos(\alpha)
+0309.png	\left(e^{-x}\right)' = -e^{-x}
+0310.png	\left(e^{-x}\right)' = -e^{-x}
+0311.png	\left(e^{-x}\right)' = -e^{-x}
+0312.png	\left(e^{-x}\right)' = -e^{-x}
+0313.png	\left(e^{-x}\right)' = -e^{-x}
+0314.png	\left(e^{-x}\right)' = -e^{-x}
+0315.png	\left(e^{-x}\right)' = -e^{-x}
+0316.png	\left(e^{-x}\right)' = -e^{-x}
+0317.png	\left(e^{-x}\right)' = -e^{-x}
+0318.png	\left(e^{-x}\right)' = -e^{-x}
+0319.png	\left(e^{-x}\right)' = -e^{-x}
+0320.png	\log_{2}{64} = 6
+0321.png	\log_{2}{64} = 6
+0322.png	\log_{2}{64} = 6
+0323.png	\log_{2}{64} = 6
+0324.png	\log_{2}{64} = 6
+0325.png	\log_{2}{64} = 6
+0326.png	\log_{2}{64} = 6
+0327.png	\log_{2}{64} = 6
+0328.png	\log_{2}{64} = 6
+0329.png	\log_{2}{64} = 6
+0330.png	\log_{2}{64} = 6
+0331.png	y = ax^2 + bx + c
+0332.png	y = ax^2 + bx + c
+0333.png	y = ax^2 + bx + c
+0334.png	y = ax^2 + bx + c
+0335.png	y = ax^2 + bx + c
+0336.png	y = ax^2 + bx + c
+0337.png	y = ax^2 + bx + c
+0338.png	y = ax^2 + bx + c
+0339.png	y = ax^2 + bx + c
+0340.png	y = ax^2 + bx + c
+0341.png	y = ax^2 + bx + c
+0342.png	\tan(x)
+0343.png	\tan(x)
+0344.png	\tan(x)
+0345.png	\tan(x)
+0346.png	\tan(x)
+0347.png	\tan(x)
+0348.png	\tan(x)
+0349.png	\tan(x)
+0350.png	\tan(x)
+0351.png	\tan(x)
+0352.png	\tan(x)

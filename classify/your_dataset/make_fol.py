@@ -10,15 +10,18 @@ label2category = {}  # 수식 라텍스 → 카테고리
 id_counter = 0
 
 def get_category(latex):
-    if any(op in latex for op in ['\\le', '\\ge', '<', '>']):
-        return '부등식'
-    elif any(sym in latex for sym in ['\\in', '\\cup', '\\cap', '\\forall', '\\exists']):
+
+    if any(sym in latex for sym in ['\\in', '\\cup', '\\cap', '\\forall', '\\exists']):
         return '집합'
+    elif any(term in latex for term in ['\\frac{dy}{dx}', '\\frac{d^2y}{dx^2}', 'dy', 'dx',  "'" , ' \\partial']):
+        return '미분'
+    elif '\\log' in latex or '\\ln' in latex:
+        return '로그/지수함수'
     elif any(sym in latex for sym in ['\\vec', '\\mathbf', '\\overrightarrow']):
         return '벡터'
     elif '\\sqrt' in latex:
         return '루트'
-    elif '^' in latex:
+    elif '^' in latex and not latex.startswith('\\lim'):
         return '지수'
     elif '+' in latex or '-' in latex:
         return '덧셈/뺄셈'
@@ -32,20 +35,17 @@ def get_category(latex):
         return '적분'
     elif '\\lim' in latex:
         return '극한'
-    elif any(term in latex for term in ['\\frac{dy}{dx}', '\\frac{d^2y}{dx^2}', 'dy', 'dx', '\\partial']):
-        return '미분'
     elif any(trig in latex for trig in ['\\tan', '\\sin', '\\cos']):
         return '삼각함수'
     elif '=' in latex or '\\equiv' in latex:
         return '방정식'
-    elif '\\log' in latex or '\\ln' in latex:
-        return '로그/지수함수'
     elif '|' in latex:
         return '절댓값'
     elif '\\binom' in latex:
         return '조합/이항계수'
     else:
         return '기타'
+
 
 
 with open(gt_file, 'r', encoding='utf-8') as f:

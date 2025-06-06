@@ -8,8 +8,8 @@ from pix2tex.cli import LatexOCR
 # 설정
 # ----------------------------
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-img_path = 'your_dataset/test/0023.jpg'  # 예측할 이미지 경로
-model_path = 'saved_model5.pth'
+img_path = 'your_dataset/test/0030.jpg'  # 예측할 이미지 경로
+model_path = 'saved_model9.pth'
 label_map_path = 'label_map.txt'
 
 # ----------------------------
