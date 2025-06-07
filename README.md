@@ -225,7 +225,7 @@ ocr_board/
 
 ## 참여자
 
-- [심종우](https://github.com/leaf1191)
-- [김지민](https://github.com/링크)
+- [심종우](https://github.com/leaf1191) :이미지 전처리, 학습모델 제작
+- [김지민](https://github.com/NIsik419) :필기 학습모델 제작, pix2tex 과 분류모델 학습
 
 
