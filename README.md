@@ -213,6 +213,15 @@ ocr_board/
 - 분류 class를 **형태 기반 + 의미 기반**으로 이원화하거나 계층화된 분류 체계 도입
 - 장기적으로는 분류 기반 + 시퀀스 생성 기반을 **하이브리드로 결합한 인식기**로 발전시킬 계획
 
+## 참고 자료
+
+- [pix2tex (GitHub)](https://github.com/lukas-blecher/LaTeX-OCR)  
+  초기 학습 모델 참고용
+- [CROHME Dataset](https://www.isical.ac.in/~crohme/)  
+  수식 손글씨 인식 대회용 데이터셋, 다양한 수식 이미지와 LaTeX 정답 제공.
+
+
+
 
 ## 참여자
 
