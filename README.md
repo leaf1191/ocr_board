@@ -58,7 +58,7 @@
 
 1. 저장소 클론:
    ```bash
-   git clone [저장소 URL]
+   git clone https://github.com/leaf1191/ocr_board
    cd ocr_board
    ```
 
@@ -90,7 +90,7 @@
    deactivate
    ```
 
-## 노션(Notion) 연동 설정(이 내용 검증 좀)
+## 노션(Notion) 연동 설정
 
 1. **노션 API 토큰 발급**:
    - [Notion Developers](https://www.notion.so/my-integrations) 사이트에서 새 integration을 생성합니다.
@@ -121,7 +121,7 @@
 
 2. GUI가 실행되면 다음 단계를 따르세요:
    - `Alt+S`를 눌러 스크린샷 촬영 혹은 `Load Image` 버튼을 눌러 이미지 파일을 직접 선택
-   - `Process Image` 버튼을 눌러 이미지 처리 및 수식 인식
+   - `Process Image` 버튼을 눌러 이미지 처리 및 수식 인식(노션 연결시 바로 결과가 latex 코드로 전송됩니다)
    - `Copy Result` 버튼을 눌러 결과를 클립보드에 복사
 
 3. 학습데이터량이 적기 때문에 demo_photos나 test에 있는 사진으로 실행하시면 더 명확한 결과를 확인해 보실 수 있습니다.
@@ -165,8 +165,12 @@ ocr_board/
   - 이미지 전처리 → 특징 추출 → 수식 유형 분류
   - 인식된 수식 결과는 LaTeX 코드 또는 사전 등록된 수식 표현으로 출력
 
+- **수식 인식 및 분류**:
+  - 정제된 글씨의 경우 스크린샷 시 분류모델 없이 예측 가능
+  - 입력 이미지로부터 **미리 정의된 수식 클래스(Class)** 예측 및 분류
+  - 예측된 수식은 LaTeX 문자열로 변환되어 클립보드에 복사 가능
 
-## 🧪 실행 예시
+##  실행 예시
 
 ### 1️⃣ 입력 이미지
 ![input](demo_photos/input_1.jpg)
@@ -175,6 +179,8 @@ ocr_board/
 - Grayscale 변환
 - Adaptive Threshold 적용
 - Morphology 연산
+
+
 ![pre](demo_photos/pre_1.png)
 
 ### 3️⃣ 예측 결과
@@ -201,7 +207,7 @@ ocr_board/
    - 분류 기준이 수식의 구조/의미/형식 중 하나로만 고정되어 있음
    - 다의적 수식이나 유사 표현에 대해 유연하지 못함
 
-### 🔧 향후 개선 방향
+### 향후 개선 방향
 
 - **더 다양한 필기체 스타일과 실제 사용자 손글씨**를 포함한 데이터셋 확보할 예정
 - 분류 class를 **형태 기반 + 의미 기반**으로 이원화하거나 계층화된 분류 체계 도입
